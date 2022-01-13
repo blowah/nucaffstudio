@@ -1,0 +1,372 @@
+{
+	"Ads": [{
+		"select_main_ads": "ADMOB",
+		"select_backup_ads": "",
+		"main_ads_banner": "",
+		"main_ads_intertitial": "",
+		"backup_ads_banner": "qwerty1234",
+		"backup_ads_intertitial": "qwerty1234",
+		"interval_intertitial": 3,
+		"initialize_sdk": "null",
+		"initialize_sdk_backup_ads": "null",
+		"high_paying_keyword_1": "",
+		"high_paying_keyword_2": "",
+		"high_paying_keyword_3": "",
+		"high_paying_keyword_4": "",
+		"high_paying_keyword_5": "",
+		"status_app": "0",
+		"link_redirect": "https://"
+	}],
+	"Categories": [{
+			"id": 1,
+			"name_category": "SAD SONG MUSIC",
+			"image": "file:///android_asset/image/anyar.jpg"
+		}
+
+
+	],
+	"Data": [{
+			"id": 38 ,
+			"name_category": "SAD SONG MUSIC",
+			"title": "Ailee_I WILL SHOW YOU",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Ailee_IWILLSHOWYOU.mp3",
+			"duration": "232",
+			"lyrics": "<br/>Naega sajun oseul geolchigo<br/>Naega sajun hyangsul ppurigo<br/>Jigeumjjeum neon geunyeol manna<br/>Tto utgo itgetji<br/><br/>Geureoke johatdeon geoni<br/>Nal beorigo tteonal mankeum<br/>Eolmana deo eotteoke deo<br/>Jal haeya han geoni<br/><br/>Neoreul amuri jiullaedo<br/>Hamkkehan nari eolmainde<br/>Jinan sigani eogulhaeseo<br/>Jakku nunmuri heureujiman<br/><br/>Boyeojulge wanjeonhi dallajin na<br/>Boyeojulge hwolssin deo yeppeojin na<br/>Babocheoreom sarang ttaemune<br/>Tteonan neo ttaemune ulji anheullae<br/><br/>Deo meotjin namjal manna<br/>Kkok boyeojulge neoboda haengbokhan na<br/>Neo eobsido seulpeuji anha muneojijianha<br/>Boy you gotta be aware<br/><br/>Santteutage meoril bakkugo<br/>Jeongseong deullyeo hwajangdo hago<br/>Haihire jjarbeun chima modu nal dorabwa<br/><br/>Uyeonhi rado neol mannamyeon<br/>Nuni busige useojumyeo<br/>Nollan ni moseup dwiro han chae<br/>Ttogak ttogak georeogaryeo hae<br/><br/>Boyeojulge wanjeonhi dallajin na<br/>Boyeojulge hwolssin deo yeppeojin na<br/>Babocheoreom sarang ttaemune<br/>Tteonan neo ttaemune ulji anheullae<br/><br/>Deo meotjin namjal manna<br/>Kkok boyeojulge neoboda haengbokhan na<br/>Neo eobsido seulpeuji anha muneojiji anha<br/>Boy you gotta be aware<br/><br/>Niga jwotdeon banjil beorigo<br/>Niga sseotdeon pyeonjil jiugo<br/>Miryeon eobsi huhoe eobsi<br/>Ijeo jul geoya neoreul ijeullae neoreul jiullae<br/><br/>Boyeojulge wanjeonhi dallajin na<br/>Boyeojulge hwolssin deo yeppeojin na<br/>Babocheoreom sarang ttaemune<br/>Tteonan neo ttaemune ulji anheullae<br/><br/>Deo meotjin namjal manna<br/>Kkok boyeojulge neoboda haengbokhan na<br/>Neo eobsido seulpeuji anha muneojiji anha<br/>Boy you gotta be aware<br/><br/>"
+		},
+		{
+			"id": 37,
+			"name_category": "SAD SONG MUSIC",
+			"title": "DAY 6_I LOVED YOU",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/DAY6_ILOVEDYOU.mp3",
+			"duration": "232",
+			"lyrics": "<br/>nan neoreul wonmanghae<br/>tto neowaye shiganeul miwohae<br/>neoreul ireobeorin nan<br/>modeun ge muuimihae<br/><br/>geuriwohaji ana nan<br/>nega bogo shipeun ge anya nan<br/>naege jwiyeojun neoye sarang (you)<br/>gieokhaenaego shipji ana oh<br/><br/>Really I loved you<br/>neomu saranghaesseunikka geureon geoya<br/>itgo shipeodo itji mothanikka<br/>geuraeseo neol itgo shipeun geoya<br/><br/>jinshimeuro I loved you<br/>neol saranghaetteon mankeum deo himdeun geoya<br/>miwohago shipeodo<br/>haji mothal neoraseo deo miun geoya<br/><br/>ara<br/>jigeum nae mari jeongmal<br/>babo gata boindan geo<br/>maldo an doeneun geo<br/>I know, I know<br/><br/>nega nal tteonaga beorin geu sunganbuteo<br/>nae sesangeun imi<br/>meomchwobeorin geol<br/>kkeutnabeorin geol<br/>Oh<br/><br/>Really I loved you<br/>neomu saranghaesseunikka geureon geoya<br/>itgo shipeodo itji mothanikka<br/>geuraeseo neol itgo shipeun geoya<br/><br/>jinshimeuro I loved you<br/>neol saranghaetteon mankeum deo himdeun geoya<br/>miwohago shipeodo<br/>haji mothal neoraseo deo miun geoya<br/><br/>sashireun naega amuri neoreul jiwoboryeo haedo<br/>mothandaneun geol ara yeah<br/>sashireun nega naege isseo ichyeojiji aneul<br/>saramiran geol marya<br/><br/>Loved you<br/><br/>itgo shipeodo itji mothanikka<br/>geuraeseo neol itgo shipeun geoya<br/><br/>jinshimeuro I loved you<br/>neol saranghaetteon mankeum deo himdeun geoya<br/>miwohago shipeodo haji mothal<br/>neoraseo deo miun geoya<br/>"
+		},
+		{
+			"id": 36,
+			"name_category": "SAD SONG MUSIC",
+			"title": "Kwon Jin Ah_BEHIND THE PAGE",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/KwonJinAh_BEHINDTHEPAGE.mp3",
+			"duration": "232",
+			"lyrics": "<br/>jobeun golmokgireun tto hayeomeopsi meoreojyeo<br/>majuanjeun takja bandaepyeonmajeodo<br/>ppeodeobwado majdaheul suga eopseoseo<br/><br/>nae mam eonjebuteonga gin geuneureul deuriwo<br/>urineun seoroga gwaenchanhda haneunde<br/>wanjeonhi doragal suneun eopsneun geol<br/>gamassda tteoboni neomu meolli waisseo<br/><br/>ije ibyeol dwismyeone seoissneun uri<br/>naege neon beokchadorok haengbokhaessdeon kkum<br/>ije majimak jangeul neomgyeoyagesseo<br/>manhi apeul tejiman eonjenganeun haeyagessji<br/><br/>geudae iyu gateun geo chajneun eolgul marayo<br/>urineun chungbunhi hal mankeum haessneun geol<br/>geureoni deo amu maldo marajwo<br/>geujeo nal bomyeonseo yejeoncheoreom useojwo<br/><br/>ije ibyeol dwismyeone seoissneun uri<br/>naege neon beokchadorok haengbokhaessdeon kkum<br/>ije majimak jangeul neomgyeoyagesseo<br/>manhi apeul tejiman eonjenganeun haeyagessji<br/><br/>huhoehaji mayo<br/>uri gati nanun sigan<br/>geu han sungando<br/>uimi eopsneun nareun eopseossgo<br/>tto dasi gado neoil tenikka<br/><br/>ije<br/>naege neon beokchadorok haengbokhaessdeon kkum<br/>ije majimak jangeul neomgyeoyagesseo<br/>manhi apeul tejiman<br/>eonjenganeun haeyagessji<br/>gomawosseo yeogikkaji<br/>"
+		},
+		{
+			"id": 35,
+			"name_category": "SAD SONG MUSIC",
+			"title": "2NE1_GOODBYE",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/2NE1_GOODBYE.mp3",
+			"duration": "232",
+			"lyrics": "<br/>Gaji ma<br/>Nal beorigo gagettaneun mareun haji ma<br/>Gieok sok nareul dugo tteonaji ma<br/>Neol jabeul su eomneun nae nuneul boji ma<br/>Geunyang gaji ma<br/><br/>Sokji ma<br/>Gyeou ireon yuhoge neomeogaji ma<br/>Modeun ge yeongwonhajineun anchanha<br/>Gyeouri gamyeon bomeun dasi wa aljanha<br/>Geunyang gaji ma<br/><br/>Oneuri jinagamyeon naeireun dareul geotman gata<br/>Neo eopsi jal saragal su isseulkka<br/><br/>Uri dasi mannaneun geunalkkaji<br/>Annyeong annyeong<br/>Uri dasi mannaneun meon geunalkkaji<br/>Annyeong annyeong<br/>Does anyone know, does anyone know<br/>How it makes me feel<br/>Uri dasi mannaneun geunalkkaji<br/>Annyeong annyeong<br/><br/>Oh annyeong annyeong<br/><br/>Mitji ma<br/>Heuteojyeo buseojin maldeureun mitji ma<br/>Neoui jakgo jageun maeumeul lochi ma<br/>Hamkkehaetteon yaksokdeuri saenggangna<br/>Nunmuri heureunda<br/><br/>Itji ma<br/>Gakkeum himi deuldeorado gwaenchanha<br/>Gidaego sipeul ttaeneun chajawa<br/>Na yeongwonhi hamkke isseojul suneun eopjiman<br/>Jamkkanijanha<br/><br/>Oneuri jinagamyeon naeireun dareul geotman gata<br/>Neo eopsi jal saragal su isseulkka<br/><br/>Uri dasi mannaneun geunalkkaji<br/>Annyeong annyeong<br/>Uri dasi mannaneun meon geunalkkaji<br/>Annyeong annyeong<br/>Does anyone know, does anyone know<br/>How it makes me feel<br/>Uri dasi mannaneun geunalkkaji<br/>Annyeong annyeong<br/><br/>Uri dasi mannaneun geunalkkaji<br/>Annyeong annyeong<br/>Uri dasi mannaneun meon geunalkkaji<br/>Annyeong annyeong<br/><br/>No annyeong annyeong<br/>"
+		},
+		{
+			"id": 34,
+			"name_category": "SAD SONG MUSIC",
+			"title": "AMBER_ON MY OWN",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/AMBER_ONMYOWN.mp3",
+			"duration": "180",
+			"lyrics": "<br/>It’s okay it’s okay<br/>oneuldo na malhalkke<br/>du nun sok neol barabomyeo<br/><br/>It’s okay it’s okay<br/>na deo noryeok haebolkke<br/>heuteojin gureum soge Yeah<br/>gal goseul ireodo<br/><br/>aryeonhan geuttae<br/>sajin soge naye moseup<br/>malgake useotteon<br/>geuttae miso gieokae<br/>nunmure gidohae<br/>‘Cause I’m on my own<br/>Where are you<br/><br/>It’s too late it’s too late<br/>dwedollil su eopgie<br/>gal goseul ilkoseo tto hemaedo<br/>neoreul (geurideon na)<br/>geuriume neoreul tto<br/><br/>geuttae sajin soge naye moseup<br/>malgake useotteon<br/>geuttae miso gieokae<br/>nunmure gidohae<br/>‘Cause I’m on my own<br/><br/>jinagan sangcheo<br/>gaseum sok han kyeone namgyeo<br/>weropji anke<br/>hanbeonman dorabwa nareul kkok ana<br/>hwanhan misoro Where are you<br/>(Where are you<br/>Where are you)<br/>yeojeonhi haneure byeoreul baraboneunde<br/><br/>oneul heureuneun binmure nunmul<br/>da gamchugo namyeon deo balgeun byeoldeuri<br/>naeireul bichugil<br/>paran haneure<br/>Where are you<br/>"
+		},
+		{
+			"id": 33,
+			"name_category": "SAD SONG MUSIC",
+			"title": "Baek Ji young_DONT FORGET",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/BaekJiyoung_DONTFORGET.mp3",
+			"duration": "245",
+			"lyrics": "<br/>Uri seoro saranghaenneunde<br/>Uri ije heeojineyo<br/>Gateun haneul dareun gose isseodo<br/>Budi nareul itji marayo<br/><br/>Chagaun barami sonkkeute seuchimyeon<br/>Deullyeooneun geudae useumsori<br/>Nae eolgul bichideon geudae dununi<br/>Geuriwo oerowo ulgo tto ureoyo<br/><br/>Ipsuri gudeobeoryeoseo<br/>Malhaji motaetdeon geu mal<br/><br/>Uri seoro saranghaenneunde<br/>Uri ije heeojineyo<br/>Gateun haneul dareun gose isseodo<br/>Budi nareul itji marayo<br/><br/>Nunmuri ibeul garyeoseo<br/>Malhaji motaetdeon geu mal<br/>Uri seoro saranghaenneunde<br/>Uri ije heeojineyo<br/>Gateun haneul dareun gose isseodo<br/>Budi nareul itji marayo<br/><br/>Hoksi algo innayo<br/>Dwidoraseo gaseum jwigo geudael bonaejuneun geu saram<br/><br/>Geu sarami baro nayeyo<br/>Geu sarameul saranghaejwoyo<br/><br/>Gateun haneul dareun gose isseodo<br/>Eonjenganeun dorawajwoyo<br/>Uri seoro saranghaenneunde<br/>Uri ije heeojineyo<br/>Gateun haneul dareun gose isseodo<br/>Budi nareul itji marayo<br/>"
+		},
+		{
+			"id": 32,
+			"name_category": "SAD SONG MUSIC",
+			"title": "BEAST_TAKE CARE OF MY GIRL FRIEND",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/BEAST_TAKECAREOFMYGIRLFRIEND.mp3",
+			"duration": "194",
+			"lyrics": "<br/>oneul nae chinguga mul-eoss-eo neowa sagwimyeon an doegess nyago<br/>eochapi ijen neowa heeojin nae daesin neoleul akkyeo jugessdago<br/><br/>That that that that that’s ok<br/>Get get get get away<br/>gwaenchanh-a mwo uli gwangye nam-eun jeongdo eobsneunde<br/>mian hadan mal-eun geumandwo eochapi gaseum an apeo<br/>nae daesin joh-eun namja chinguga dwaejwo<br/><br/>ajig neo ttaemun-e jam mosneunde geuleohge malhajileul moshae ilu<br/>eogji us-eum-e gyeoglyeokkaji deohae chinguleul bonaejwossjiman oh girl<br/><br/>Oh can’t u see I’m still lovin’ you<br/>ajig nae mam-i neol bonael suga eobs-eo<br/><br/>Say no! no! no! no! no! Say no! no! no! no! no!<br/>andoendago malhae ajig ni mam sog-e nal gidaligo issdago say no!<br/><br/>sul-eun manh-i moshae dambae yeongineun silh-eohae<br/>honjaissneun geo silh-eo hanikka eonjena hamkke<br/><br/>iss-eojwo saeng-il ginyeom-il-eun kkogkkog chaeng-gyeojwo<br/>nan waei jis-eulhago issna dodaeche wae<br/><br/>dol-a seomyeonseo huhoehal geomyeonseo eogjilo meos-issneun cheog haess-eo<br/>chingu dwieseo hwaleul nael geomyeonseo an doelago bil geomyeonseo<br/><br/>Oh can’t u see I’m still lovin’ you<br/>ajig nae mam-i neol bonael suga eobs-eo<br/><br/>Say no! no! no! no! no! Say no! no! no! no! no!<br/>andoendago malhae ajig ni mam sog-e nal gidaligo issdago<br/><br/>(say) no no no (say) andoendago (say) geu salam gidalil geola aaa go<br/>(say) no no no (say) andoendago (say) geu salam gidalil geola aaa go<br/><br/>ajig neo ttaemun-e jam mosneunde geuleohge malhajileul moshae ilu<br/>eogji us-eum-e gyeoglyeokkaji deohae chinguleul bonaejwossjiman oh girl<br/><br/>Oh can’t u see I’m still lovin’ you<br/>ajig nae mam-i neol bonael suga eobs-eo<br/><br/>Say no! no! no! no! no! Say no! no! no! no! no!<br/>andoendago malhae ajig ni mam sog-e nal gidaligo issdago say no!<br/>"
+		},
+		{
+			"id": 31,
+			"name_category": "SAD SONG MUSIC",
+			"title": "Big Bang_HARU HARU",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/BigBang_HARUHARU.mp3",
+			"duration": "254",
+			"lyrics": "<br/><br/>Tteonaga<br/><br/>Yeah<br/>Finally I realize<br/>That I'm nothing without you<br/>I was so wrong, forgive me<br/><br/>Ah, ah, ah, ah<br/>Ah ah ah ahh, ah, ah, ah, ah, ah<br/><br/>Padocheoreom buswojin nae mam<br/>Baramcheoreom heundeullineun nae mam<br/>Yeongicheoreom sarajin nae sarang<br/>Munsincheoreom jiwojijiga anha<br/>Hansumman ttangi kkeojira swijyo<br/>Nae gaseumsogen meonjiman ssahijyo<br/>Say goodbye, yeah<br/><br/>Nega eobsin dan harudo mot salgeotman gatatdeon na<br/>Saenggakgwaneun dareugedo geureokjeoreok honja jal sara<br/>Bogosipdago bulleobwado neon amu daedabeobtjanha<br/>Heotdoen gidae georeobwado ijen soyongeobtjanha<br/><br/>Ne yeope inneun geu sarami mwonji hoksi neol ullijin annneunji<br/>Geudae naega boigin haneunji beolsseo ssak da ijeonneunji<br/>Geokjeongdwae dagagagijocha mareul geol su jocha eobseo aetaeugo<br/>Na hollo gin bameul jisaeujyo subaekbeon jiwonaejyo<br/><br/>Dorabojimalgo tteonagara<br/>Tto nareul chatjimalgo saragara<br/>Neoreul saranghaetgie huhoeeopgie<br/>Johatdeon gieongman gajyeogara<br/>Geureokjeoreok chamabolmanhae<br/>Geureokjeoreok gyeondyeonaelmanhae<br/>Neon geureolsurok haengbokhaeyadwae<br/>Haru haru<br/>Mudyeojyeogane<br/><br/>Oh, girl...<br/>I cry, cry<br/>You're my all<br/>Say goodbye<br/><br/>Gireul geotda neowa na uri majuchindahaedo<br/>Mot boncheok hagoseo geudaero gadeongil gajwo<br/><br/>Jakkuman yet saenggagi tteooreumyeon amado<br/>Nado mollae geudael chajagaljido molla<br/><br/>Neon neul geu saramgwa haengbokhage neon neul naega dareun mam an meokge<br/>Neon neul jageun miryeondo an namgekkeum jal jinaejwo na borandeusi<br/><br/>Neon neul jeo haneulgachi hayake tteun gureumgwado gachi saeparake<br/>Neon neul geureoke useojwo amu il eopdeusi<br/><br/>Dorabojimalgo tteonagara<br/>Tto nareul chatjimalgo saragara<br/>Neoreul saranghaetgie huhoeeopgie<br/>Johatdeon gieongman gajyeogara<br/>Geureokjeoreok chamabolmanhae<br/>Geureokjeoreok gyeondyeonaelmanhae<br/>Neon geureolsurok haengbokhaeyadwae<br/>Haru haru<br/>Mudyeojyeogane<br/><br/>Nareul tteonaseo mam pyeonhaejigil (nareul itgoseo saragajwo)<br/>Geu nunmureun da mareulteni, yeah (haruharu jinamyeon)<br/>Charari mannaji anhatdeoramyeon deol apeultende, hmm<br/>Yeongwonhi hamkkehajadeon geu yaksok ijen<br/>Chueoge mudeodugil barae baby neol wihae gidohae<br/><br/>Dorabojimalgo tteonagara<br/>Tto nareul chatjimalgo saragara<br/>Neoreul saranghaetgie huhoeeopgie<br/>Johatdeon gieongman gajyeogara<br/>Geureokjeoreok chamabolmanhae<br/>Geureokjeoreok gyeondyeonaelmanhae<br/>Neon geureolsurok haengbokhaeyadwae<br/>Haru haru<br/>Mudyeojyeogane<br/><br/>Oh, girl<br/>I cry, cry<br/>You're my all<br/>Say goodbye, bye<br/>Oh, my love<br/>Don't lie, lie<br/>You're my heart<br/>Say goodbye<br/>"
+		},
+		{
+			"id": 30,
+			"name_category": "SAD SONG MUSIC",
+			"title": "BTOB_MISSING YOU",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/BTOB_MISSINGYOU.mp3",
+			"duration": "237",
+			"lyrics": "<br/>My life is incomplete<br/>It's missing you<br/>Oneuldo harureul bonae dareul ge eopshi<br/>Hanado an eosaekhae honja inneun ge<br/>Neo eopshin andoel geot gatdeon naega ireoke sara<br/>Geunde jom heojeonae nan yeojeoni geogi inna bwa<br/><br/>Huryeonage da teoreonae da da<br/>Jinan ire maeum sseuneun ge it's alright<br/>Dapi jal boineunga shipdagado<br/>Eoneusae nal gaduneun gamogi dwae<br/>Shiganeun apeuroman ganeun geol eojjae<br/>Geudongan nan amugeotto irun geoshi eomne<br/><br/>Ajikdo nae maeumsogen neo oh oh<br/><br/>Neoreul geuriweohada haruga da jinasseo<br/>Neoreul geuriweohada il nyeoni gabeoryeosseo<br/>Nan geunyang geureoke sara<br/>Neoreul geuriweohada geuriweohada<br/><br/>Da gwaenchaneul geora doenoeeo bwado<br/>Nae harue kkeuten tto neoro nama<br/>Neo eopshin andoel geot gatdeon naega ireoke sara<br/>Sashil jom heojeonae neon yeojeoni yeogi inna bwa<br/><br/>Nae maeumeun yeojeonae ajik neoreul weonae<br/>Myeot nyeoni jinado nan ajik neol geuriweohae<br/>Nan ajik gieokhae uri cheoeum bwasseul ttae<br/>Ne oscharimgwa meori seutaildo da jeonghwakhage<br/>I pray for you every night and day<br/>I hope that someday soon<br/>I can see you once again<br/><br/>Ajikdo nae maeumsogen neo oh oh<br/><br/>Neoreul geuriweohada haruga da jinasseo<br/>Neoreul geuriweohada il nyeoni gabeoryeosseo<br/>Nan geunyang geureoke sara<br/>Neoreul geuriweohada geuriweohada<br/><br/>Jameseo kkaeeo heongkeureojin meoricheoreom<br/>Nae ilsangdo kkwaena eongmangi<br/>Dwaebeoryeosseo chaegimjyeo<br/>Amureochi aneun cheok<br/>Deuriweojin pyojeongdo nae modeun gose<br/>Seumyeodeun ne heunjeokdo da chaegimjyeo<br/>Ajikdo nan<br/>Ijeul su eomna bwa<br/>Dashi dorawa jweo<br/>Ttodashi gateun endingira haedo neo<br/><br/>Neoreul geuriweohada haruga da jinasseo<br/>Neoreul geuriweohada il nyeoni gabeoryeosseo<br/><br/>Neoreul ijeuryeo hada haruga jinagado<br/>Neoreul jiuryeo hada il nyeoni gabeoryeodo<br/>Nan geunyang geureoke sara<br/>Neoreul geuriweohada geuriweohada<br/><br/>Geuriweohada geuriweohada<br/>"
+		},
+		{
+			"id": 29,
+			"name_category": "SAD SONG MUSIC",
+			"title": "BTS_THE TRUTH UNTOLD",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/BTS_THETRUTHUNTOLD.mp3",
+			"duration": "245",
+			"lyrics": "<br/>Oeroumi gadeukhi<br/>Pieoissneun i garden<br/>Gasituseongi<br/>I moraeseonge nan nal maeeosseo<br/><br/>Neoui ireumeun mwonji<br/>Gal gosi issgin hanji<br/>Oh could you tell me?<br/>I jeongwone sumeodeun neol bwasseo<br/><br/>And I know<br/>Neoui ongin modu da jinjjaran geol<br/>Pureun kkocheul kkeokkneun son<br/>Jabgo sipjiman<br/><br/>Nae unmyeongin geol<br/>Don't smile on me<br/>Light on me<br/>Neoege dagaseol su eopseunikka<br/>Naegen bulleojul ireumi eopseo<br/><br/>You know that I can't<br/>Show you ME<br/>Give you ME<br/>Chorahan moseub boyeojul sun eopseo<br/>Tto gamyeoneul sseugo neol mannareo ga<br/>But I still want you<br/><br/>Oeroumui jeongwone pin<br/>Neoreul dalmeun kkoch<br/>Jugo sipeossji<br/>Babo gateun gamyeoneul beotgoseo<br/><br/>But I know<br/>Yeongwonhi geureol suneun eopsneun geol<br/>Sumeoyaman haneun geol<br/>Chuhan nanikka<br/><br/>Nan duryeoun geol<br/>Cholahae<br/>I'm so afraid<br/>Gyeolgugen neodo nal tto tteonabeorilkka<br/>Tto gamyeoneul sseugo neol mannareo ga<br/><br/>Hal su issneun geon<br/>Jeongwone<br/>I sesange<br/>Yeppeun neoreul dalmeun kkocheul piun daeum<br/>Niga aneun naro sumswineun geot<br/>But I still want you<br/>I still want you<br/><br/>Eojjeomyeon geuttae<br/>Jogeumman<br/>Imankeumman<br/>Yonggil naeseo neoui ape seossdeoramyeon<br/>Jigeum modeun geon dallajyeosseulkka<br/><br/>Nan ulgo isseo<br/>Sarajin<br/>Muneojin<br/>Hollo namgyeojin i moraeseongeseo<br/>Buseojin gamyeoneul barabomyeonseo<br/>And I still want you<br/>But I still want you<br/>But I still want you<br/>And I still want you<br/>"
+		},
+		{
+			"id": 28,
+			"name_category": "SAD SONG MUSIC",
+			"title": "CN BLUE_DOMINO",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/CNBLUE_DOMINO.mp3",
+			"duration": "210",
+			"lyrics": "<br/>My love is gone<br/>Just let it go<br/>You break me down<br/>Like them dominos<br/>My love is gone<br/>Just let it go<br/>You break me down<br/>Like them dominos<br/><br/>Uriga ssaatdeon sungandeul modeun geot muneojyeonaeryeo<br/>Witaerowosseotdeon sigan han jogagi muneotteuryeosseo girl<br/><br/>Adios adios nae modeun geol gajyeoga<br/>Tteugeowotdeon mam tteugeopdeon bam<br/>Adios adios dareun namja pumeseo<br/>Budi haengbokagil girl<br/><br/>My love is gone<br/>Just let it go<br/>You break me down<br/>Like them dominos<br/>My love is gone<br/>Just let it go<br/>You break me down<br/>Like them dominos<br/><br/>Seoroga hangoseul barabwatdeon naldeul muneojyeonaeryeo<br/>Heeojim sogedo gateun goseul bomyeo muneojyeonaeryeo girl<br/><br/>Adios adios namgimeopsi gajyeoga<br/>Jjarithaetdeon kiss moonlight kiss<br/>Adios adios dareun yeoja pumeseo<br/>Nado haengbok halge girl<br/><br/>My love is gone<br/>Just let it go<br/>You break me down<br/>Like them dominos<br/>My love is gone<br/>Just let it go<br/>You break me down<br/>Like them dominos<br/><br/>My love is gone<br/>You break me down<br/>Just let it go<br/>Like them dominos<br/>My love is gone<br/>You break me down<br/>Just let it go<br/>Like them dominos<br/>"
+		},
+		{
+			"id": 27,
+			"name_category": "SAD SONG MUSIC",
+			"title": "Davichi_ITS ALRIGHT THIS IS LOVE",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Davichi_ITSALRIGHTTHISISLOVE.mp3",
+			"duration": "244",
+			"lyrics": "<br/>Nae mami boini wae sarangingeoni<br/>Dasineun haji maljadeon sarang cham manhi babo gatji<br/>Wae haengbok han geoni ni eolguri tteoolla<br/>Nae gyeoteman isseojwo yeongwonhi neoreul<br/><br/>Kkot heundeullideut barame niga dagawa<br/>Nae mam dudeurideon geureon neoreul saranghae<br/>Gaseumi apa neol bomyeon gwaenchanha sarangiya<br/>Bujokhan i mameul tto nareul sarangeul<br/>Bada julsu itgenni nareul<br/><br/>Wae utgiman hani nae nuneul barabomyeo<br/>I tteollimeul ganjikhae nareul anajwo<br/><br/>Kkot heundeullideut barame niga dagawa<br/>Nae nun dudeurideon geureon neoreul saranghae<br/>Gaseumi apa neol bomyeon gwaenchanha sarangiya<br/>Bujokhan i mameul tto nareul sarangeul<br/>Bada jul su itgenni nareul<br/>Ireon nareul saranghaejwo saranghae neol oh love<br/>"
+		},
+		{
+			"id": 26,
+			"name_category": "SAD SONG MUSIC",
+			"title": "DAY 6_CONGRATULATIONS",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/DAY6_CONGRATULATIONS.mp3",
+			"duration": "264",
+			"lyrics": "<br/>Ijeneun yeonrakjocha batjil anha<br/>Neo daesin deullineun mumigeonjohan moksori<br/>Himdeun naldeuldo issneun geonde<br/>Jamkkaneul mot igyeo tto dareun daeaneul chajaga<br/>Siganeul gajija<br/>I mareul nan issneun geudaero<br/>Siganeul gajijan<br/>Tteuseuro badadeuryeo beoryeosseo<br/><br/>Congratulations neon cham daedanhae<br/>Congratulations eojjeom geureohge<br/>Amureohji anha<br/>Hamyeo nal jisbalpa<br/>Usneun eolgureul boni da ijeossna bwa<br/>Siganeul gajjadeon mal ye<br/>Saenggakhae bojadeon mal ye<br/>Nae nuneul bomyeonseo mitge haenohgo<br/>Ireohge naege<br/><br/>Amureohji anha<br/>Hamyeo nal jisbalpa<br/>Usneun eolgullo nal kkamahge ijgo<br/>Haengbokhae haneun neon<br/><br/>Eottae geu namjan naboda deo na?<br/>Geu sarami nae gieok da jiwojwossna bwa?<br/>Geurae neoga haengbokhamyeon dwaessji<br/>Raneun geojismareun an halge<br/>Daeche naega wae nal tteonan neohante<br/>Haengbogeul baraeya dwae jeoldae<br/>I don't give a a..<br/><br/>Congratulations neon cham daedanhae<br/>Congratulations eojjeom geureohge<br/>Amureohji anha<br/>Hamyeo nal jisbalpa<br/>Usneun eolgureul boni da ijeossna bwa<br/>Siganeul gajjadeon mal ye<br/>Saenggakhae bojadeon mal ye<br/>Nae nuneul bomyeonseo mitge haenohgo<br/>Ireohge naege<br/><br/>Amureohji anha<br/>Hamyeo nal jisbalpa<br/>Usneun eolgullo nal kkamahge ijgo<br/>Haengbokhae haneun neon<br/><br/>Jinsim wow girl congratulations<br/>Baro eolma an geollyeossne jal nasyeosseo<br/>Huh inteonese ollaon ni sajineul boni<br/>Geuri manhido haengbokhani<br/>Ibi gwikkaji geollyeoissneun geo gatae<br/>Nan ajikdo sumswil ttae simjangi apeunde<br/>Dahaenghi neon jeoldae apeul ireun eopsgessda<br/>Manyak tto ibyeoreul gyeokkneundam<br/>Geureol ttae mada<br/>Saeroun sarangeul sijakhamyeon doenikka<br/><br/>Congratulations eotteohge irae<br/>Congratulations neon jeoldae naege<br/>Doraoji anha gidaejocha anha<br/>Na eopsido eolmana jal salji molla uh..<br/>Siganeul gajjadeon mal ye<br/>Saenggakhae bojadeon mal ye<br/>Gidarim soge nal gadwobeorigo<br/>Neoman ireohge<br/><br/>Nae gyeoteul tteonaga<br/>Geu namjareul manna<br/>Naraneun nomeun eopseossdeon geoscheoreom<br/>Sarange ppajin neon<br/>"
+		},
+		{
+			"id": 25,
+			"name_category": "SAD SONG MUSIC",
+			"title": "Eric Nam_HONESTLY",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/EricNam_HONESTLY.mp3",
+			"duration": "206",
+			"lyrics": "<br/>Neol sarangeun hajiman jogeum jichingeoya<br/>Sangcheoreul jugiga neomu duryeoungeoya<br/>Chakhan ge anya nal wihae geureongeoya<br/>Ajikdo neol saranghandaneun geojitmal<br/><br/>Neon dabeul wonhaetji shijakbuteo<br/>Gyeolmareul miri bon yeonghwacheoreom<br/>Budamseureowotji neon jeomjeom deo<br/>Bin teum eopshi jjayeojin seutoricheoreom<br/><br/>Heeojija geu hanmadiga janinhan geogetji<br/>Ibeul yeoreodo dashi samkigo wae mot baetneungeoji<br/><br/>Neol sarangeun hajiman jogeum jichingeoya<br/>Sangcheoreul jugiga neomu duryeoungeoya<br/>Chakhan ge anya nal wihae geureongeoya<br/>Ajikdo neol saranghandaneun geojitmal<br/><br/>Harue myeot beonsshik saenggakhaetji<br/>Na eopshi neon eotteoke jinaelji<br/>Jigiji mothal maneun yaksokdeul<br/>Ijen uimi eopneun maldeullo namgetji<br/><br/>Heeojija geu hanmadiga janinhan geogetji<br/>Ibeul yeoreodo dashi samkigo wae mot baetneungeoji<br/><br/>Neol sarangeun hajiman jogeum jichingeoya<br/>Sangcheoreul jugiga neomu duryeoungeoya<br/>Chakhan ge anya nal wihae geureongeoya<br/>Ajikdo neol saranghandaneun geojitmal<br/><br/>Heeojijaneun geu hanmadireul wae mot baetneungeoji<br/><br/>Saranghaetjiman ije jichingeoya<br/>Baby I need you to say something say something<br/>Neodo aljana ije kkeuchingeoya<br/>Baby I need you to say something say something<br/><br/>Saranghandaneun geojitmal<br/><br/>Saranghandaneun geojitmal<br/>"
+		},
+		{
+			"id": 24,
+			"name_category": "SAD SONG MUSIC",
+			"title": "G-Dragon_THATXX",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/G-Dragon_THATXX.mp3",
+			"duration": "201",
+			"lyrics": "<br/>Uyeonhi gireul geotda<br/>Ne namjal bwasseo (Yea I saw him)<br/>Hoksina haetdeon nae yegami majasseo (I told you)<br/>Nega jun banjireul ppaego<br/>Hanjjogen paljjangeul kkigo<br/>Geunyang yeogikkajiman<br/>Malhalge (I don't wanna hurt you)<br/>Geunde ohiryeo neoneun naege hwareul nae (Why?)<br/>Geuneun jeoldaero<br/>Geureol riga eopdae (Sure you're right)<br/>Naneun ne nunchil salpigo<br/>Naega jal mot bon georago<br/>Geurae neol wihae geojinmalhalge (I'm sorry)<br/>Oh nal mollajuneun nega miwo<br/>I gidarimi sileo<br/>Geu son ije noeurago<br/>Nega seulpeohal ttaemyeon<br/>Naneun jugeul geonman gatdago baby<br/><br/>Geu XXboda naega mothan ge mwoya<br/>Dodaeche wae naneun gajil su eomneun geoya<br/>Geu XXneun neoreul saranghaneun ge anya<br/>Eonjekkaji babogachi ulgoman isseul geoya<br/><br/>Neon geu saram yaegil hal ttaen<br/>Haengbokae boyeo (You look happy)<br/>Ireokerado useuni joa boyeo (I'm happy)<br/>Geureul jeongmal saranghandago<br/>Machi yeongwonhalgeorago<br/>Minneun ne moseubi I don't know what to say no more<br/>Neoui chingudeul modu<br/>Geureul jal ara (yup they know)<br/>Ppeonhi da boineungeol neoman wae mot bwa (It's you)<br/>They say love is blind Oh baby you so blind<br/>Jebal heeojigireul baralge<br/><br/>Oh nal mollajuneun nega miwo<br/>I gidarimi sileo<br/>Geu son ije noeurago<br/>Nega seulpeohal ttaemyeon<br/>Naneun jugeul geonman gatdago baby<br/><br/>Geu XXboda naega mothan ge mwoya<br/>Dodaeche wae naneun gajil su eomneun geoya<br/>Geu XXneun neoreul saranghaneun ge anya<br/>Eonjekkaji babogachi ulgoman isseul geoya<br/><br/>Bissan chae yeppeun ot<br/>Gogeup reseutorang neon jal eoullyeo<br/>Hajiman ne yeop geu Xneun jeongmal anya<br/>Neorangeun an eoullyeo<br/>Ne apeseo geojinmisoreul jieumyeo<br/>Ne bolgwa meoritgyeoreul manjimyeo<br/>Sogeuron bunmyeong dareun yeojareul saenggakae<br/>Eojjeom geureol su inni joe gatae<br/>Nega heullin nunmulmankeum<br/>Naega deo jalhaejulge baby<br/>Neo honja gamdanghal apeum<br/>Naegedo jom nanwojullae baby<br/>Na jom bwadallago geudae sarangi<br/>Wae narangeol molla<br/>Wae neoman molla<br/><br/>Geu XXboda naega mothan ge mwoya<br/>Dodaeche wae naneun gajil su eomneun geoya<br/>Geu XXneun neoreul saranghaneun ge anya<br/>Eonjekkaji babogachi ulgoman isseul geoya<br/><br/>Geu XXboda naega mothan ge mwoya<br/>Dodaeche wae naneun gajil su eomneun geoya<br/>Geu XXneun neoreul saranghaneun ge anya<br/>Eonjekkaji babogachi ulgoman isseul geoya<br/>"
+		},
+		{
+			"id": 23,
+			"name_category": "SAD SONG MUSIC",
+			"title": "G-DRAGON_UNTITLED 2014",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/G-DRAGON_UNTITLED2014.mp3",
+			"duration": "228",
+			"lyrics": "<br/>Naege doraogiga<br/>Eoryeobgo himdeun geol ara<br/>Ije deoneun sangcheobatgiga<br/>Duryeobgo shireun geol ara<br/><br/>Nega tteona beorin geunaredo<br/>Mojin mallo neol ulligo<br/>Dwidora seoseo huhoehae mianhae<br/><br/>Jebal dan han beonirado<br/>Neoreul bol su itdamyeon<br/>Nae modeun geol da ireodo gwaenchana<br/>Kkumeseorado neoreul manna<br/>Dashi saranghagireul<br/>Uri idaero<br/><br/>Neoege yongseobatgi boda<br/>Jukneun ge deo swiulji molla<br/>I noraereul bulleobojiman<br/>Nae jinshimi daheulji molla<br/><br/>Nega haengbokhagireul barae<br/>Geu heunhan geojitmaldo mothago<br/>Doraogiman gidohae mianhae<br/><br/>Jebal dan han beonirado<br/>Neoreul bol su itdamyeon<br/>Nae modeun geol da ireodo gwaenchana<br/>Kkumeseorado neoreul manna<br/>Dashi saranghagireul<br/>Uri idaero<br/><br/>Ijeneun kkeuchiraneun majimagiraneun<br/>Neoye geu mameul nan mideul su eopseo<br/>I can't let go<br/>Cause you never know<br/>Naegen neo gateun neoegen na gateun<br/>Geureon sarangeun du beon dashineun eopseo<br/>Nobody knows<br/>We always know<br/><br/>Jebal dan han beonirado<br/>Neoreul bol su itdamyeon<br/>Nae modeun geol da ireodo gwaenchana<br/>Kkumeseorado neoreul manna<br/>Dashi saranghagireul<br/><br/>Jigeum i shigani jinagago<br/>Da ijeul su itdamyeon<br/>Geu gieokdo haengbokhaetdeon chueokdo<br/>Ani daeum saeng edo neoreul<br/>Manna dashi saranghagireul<br/>Yejeon geudaero<br/>"
+		},
+		{
+			"id": 22,
+			"name_category": "SAD SONG MUSIC",
+			"title": "Girls Day_I MISS YOU",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/GirlsDay_IMISSYOU.mp3",
+			"duration": "217",
+			"lyrics": "<br/>don't tell me why<br/>du nuneul gameumyeon nega boineunde<br/>don't tell me boy<br/>neon usgo ineunde uri usgo ineunde<br/>don't tell me why<br/>du nuneul tteobomyeon nan ulgo ineungeol<br/>don't tell me boy<br/>uri hamkkeyeoneunde<br/><br/>achime ireona tvreul kyeogo<br/>syaworeul hago oseul garaipgoseo<br/>nagal junbireul hae<br/>oneuldo eojewa ttokgateunde<br/>han gajido byeonhan ge eopneunde<br/>wae nan<br/><br/>mundeuk ullineun jeonhwagil bodaga<br/>nado mollae nunmuri heulleonaerigo<br/>neoneun wae tto ireohge<br/>neon amureohji anhge<br/>nae mameul tto heundeureonwa<br/><br/>sasireun neomu bogo sipeo<br/>bogo sipeo nega<br/>ne eokkae gidae ulgo sipeo<br/>ulgo sipeo naega<br/>chamaboryeo aesseo ujanha<br/>ajikdo heundeulligo ijanha<br/>jebal jalhae juji ma<br/>deoneun naege jalhae juji ma<br/><br/>jalhaejuji ma gaseumi apeujanha<br/>nune ttwiji ma jakku nega maemdoljanha<br/>nan uioero yakhae<br/>geuraeseo neobakke mot geuryeo<br/>geurimeul jiuda dasi neol geuryeo<br/>tto neomu dalkomhae<br/>geuraeseo michige hae<br/>tto neomu dalkomhae<br/>geuraeseo michige hae<br/>neon nareul apeuge<br/>geuraeseo deouk michige hae<br/>jalhaejuji ma<br/>naege neol boyeojuji ma<br/><br/>mundeuk ullineun jeonhwagil bodaga<br/>nado mollae nunmuri heulleonaerigo<br/>neoneun wae tto ireohge<br/>neon amureohji anhge<br/>nae mameul tto heundeureonwa<br/><br/>sasireun neomu bogo sipeo<br/>bogo sipeo nega<br/>ne eokkae gidae ulgo sipeo<br/>ulgo sipeo naega<br/>chamaboryeo aesseo ujanha<br/>ajikdo heundeulligo ijanha<br/>jebal jalhae juji ma<br/>deoneun naege jalhae juji ma<br/><br/>don't tell me why<br/>jalhaejuji ma gaseumi apeujanha<br/>don't tell me boy<br/>jalhaejuji ma<br/>ireohge nae gaseumeseo<br/>jiuryeo hajiman<br/>geuge maeumcheoreom<br/>an doeneungeol eotteohge<br/><br/>sasireun neomu bogo sipeo<br/>bogo sipeo nega<br/>ne eokkae gidae ulgo sipeo<br/>ulgo sipeo naega<br/>chamaboryeo aesseo usjanha<br/>ajikdo heundeulligo ijanha<br/>jebal jalhae juji ma<br/>deoneun naege jalhae juji ma<br/><br/>oneuldo eojewa ttokgateunde<br/>han gajido byeonhan ge eopneunde wae nan<br/><br/>"
+		},
+		{
+			"id": 21,
+			"name_category": "SAD SONG MUSIC",
+			"title": "iKON_GOODBYE ROAD",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/iKON_GOODBYEROAD.mp3",
+			"duration": "245",
+			"lyrics": "<br/>Goodbye goodbye ibyeoreul arattamyeon<br/>Geutorok saranghaji mal geol geuraetna bwayo<br/><br/>(Check it out yo)<br/><br/>Mudeomdeomhaejyeo ganeun seoroye gamjeong ttaemune<br/>Sangcheoreul juneun geotjochado ije mudeomdeomhan uri<br/>Imi sarangeun tteonatgo jeongbakke namji anasseo<br/>Geunyang geureonga hago tteutteutmijigeun haejyeotji<br/>(Where you at)<br/>Gwanshimeun jibchagi dweeo beorigo<br/>(Where you at)<br/>Uishimeun geoye bab meokdeushi hae<br/>Neowa naega ssahatteon shillweran seongeun muneojigo<br/>Neon ije ibyeolgireul georeumyeo<br/>Saesarameul chatji<br/><br/>Gati ulgi wihae neol mannan geon aninde<br/>(Nunmuri nanda)<br/>Sangcheobatgi wihae ssaheun chueogi aninde<br/>(Ichyeojyeo ganda)<br/>Neomu shwipge tto han saramgwa nami dwae<br/>Gojak ibyeolhagi wihae neol saranghan geon aninde<br/>(Iksukhaejyeo ganda)<br/><br/>Jal gayo geu heomhan ibyeolgireul<br/>Nareul tteona budi kkotgilman georeoyo<br/>Joshimhi gayo weroun ibyeolgireul<br/>Ganeun gire naye modeun gieogeul beoryeoyo<br/><br/>(Check it out)<br/><br/>Jinagan gieok sogeseo sandaneun geon<br/>Geu eolmana mugiryeokhan weroumilkka<br/>Geu gieok sogeseojocha ichyeojindaneun geon<br/>Tto eotteon sunganboda janinhan apeuminga<br/>Jukdorok saranghaetgeonman kkeutnae na jukji anatne<br/>Sumeul gipge deurimashyeodo naebaeteumyeon hansumi dwae<br/>Nuguna haneun ibyeorini uri seulpeo marayo<br/>Nan tto geudae dalmeun deut anin saram chajagalgeyo<br/><br/>Gati ulgi wihae neol mannan geon aninde<br/>(Nunmuri nanda)<br/>Sangcheobatgi wihae ssaheun chueogi aninde<br/>(Ichyeojyeo ganda)<br/>Neomu shwipge tto han saramgwa nami dwae<br/>Gojak ibyeolhagi wihae neol saranghan geon aninde<br/>(Iksukhaejyeo ganda)<br/><br/>Jal gayo geu heomhan ibyeolgireul<br/>Nareul tteona budi kkotgilman georeoyo<br/>Joshimhi gayo weroun ibyeolgireul<br/>Ganeun gire naye modeun gieogeul beoryeoyo<br/><br/>(Check it out)<br/><br/>Goodbye goodbye ibyeoreul arattamyeon<br/>Geutorok saranghaji mal geol geuraetna bwayo<br/><br/>Goodbye goodbye eochapi tteonandamyeon<br/>Eotteon miryeondo namji anke boran deushi sarayo<br/><br/>(Check it out)<br/><br/>Jal gayo eoyeoppeun nae sarama<br/>Nareul tteona haengbokhageman sarayo<br/>(Haengbokhageman sarayo)<br/>Joshimhi gayo gaseum apeun saranga<br/>Nae gyeote isseul ttaecheoreom apeuji marayo<br/>(Geudae apeuji marayo)<br/><br/>Na<br/>Nananananana<br/>Nananananana<br/>Nanananana<br/><br/>Nananana<br/>Na<br/>Nananananana<br/>Nananananana<br/>Nanananana<br/><br/>(Check it out)<br/>"
+		},
+		{
+			"id": 20,
+			"name_category": "SAD SONG MUSIC",
+			"title": "Infinite_PARADISE",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Infinite_PARADISE.mp3",
+			"duration": "215",
+			"lyrics": "<br/>Ppikkeut ppikkeut gojang nan nae maeumira<br/>Idaero bonael sun eobseo eojjeojago.<br/><br/>Heundeul heundeul witaerowo boyeodo nan<br/>Neoreul jabadul su bakke eobseo eojjeojago.<br/><br/>Saranghanda (geureol kkeoya neon)<br/>An handa (anil kkeoya neon)<br/>Handa neoman bonda<br/><br/>Yeogi isseo deo deo butak halkke deo deo<br/>Jalhae julkke deo deo ajigeun mot bonaenikka<br/>Nan nan saraya hae nan nan beotyeoya hae nan nan<br/>Eonjengan meomchul tenikka<br/><br/>Niga isseoyaman yeogiga paradise<br/>Eokjiro neoreul gadwo beorin paradise o o<br/>Kkaeeoseon gal su eomneun seulpeun paradise<br/>Yeongwonhi hamkke hal su inneun paradise o o o<br/><br/>Sum jugyeoseo jikyeobol su bakke nan<br/>Geujeo geureol su bakke eobseo kkaejilkka bwa<br/><br/>Nareul bonda (geureol kkeoya neon)<br/>An bonda (anilkkeoya neon)<br/>Bonda apa onda<br/><br/>Yeogi isseo deo deo butak halkke deo deo<br/>Jalhae julkke deo deo ajigeun mot bonaenikka<br/>Nan nan saraya hae nan nan beotyeoya hae nan nan<br/>Eonjengan meomchul tenikka<br/><br/>Ni ga isseoyaman yeogiga paradise<br/>Eokjiro neoreul gadwo beorin paradise o o<br/>Kkaeeoseon gal su eomneun seulpeun paradise<br/>Yeongwonhi hamkke hal su inneun paradise o o o<br/><br/>Maeil bam neoro chaewotdeon na<br/>Geurae iksukhaejin momeul ijen sullo chaeul time<br/>Gama watdeon pal sumi gapareudeon bam<br/>Choegoui paradise neo eobsin hopeless world<br/><br/>Jogeumman neol deo deo jaba dulkke deo deo<br/>Bara bolkke deo deo<br/>Simjangi sigeul ttaekkaji<br/>Nan nan saraya hae nan nan neo eobsido nan nan<br/>Jigeumeun niga pillyohae<br/><br/>Niga isseoyaman yeogiga paradise<br/>Eokjiro neoreul gadwo beorin paradise o o<br/>Kkaeeoseon gal su eomneun seulpeun paradise<br/>Yeongwonhi hamkke hal su inneun paradise o o o<br/>"
+		},
+		{
+			"id": 19,
+			"name_category": "SAD SONG MUSIC",
+			"title": "IU & OhHyuk_CANT LOVE YOU ANYMORE",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/IU&OhHyuk_CANTLOVEYOUANYMORE.mp3",
+			"duration": "198",
+			"lyrics": "<br/>miri malhalge sagwaneun an hae<br/>amu mal eopshi neo huhoe an hae?<br/>da gwanshim eopsjana chinguya mweoya<br/>Oh you know what to do<br/>pigonae geuman oneureun nwa jweo<br/>deo isang banbokhagin shireo<br/>tto da naega nappa<br/>ama geurae nan<br/>neol miweohana bwa.<br/><br/>sarangi jal an dwae<br/>tteoollyeo bwado<br/>pibureul bibigo anabwado<br/>ipsureul majchweodo cham<br/>saenggakdaero doeji ana<br/>utgin geot gata<br/>doedollyeoboryeogo<br/>seoro moreun cheokhaedo<br/>ije wa uriga eotteoke<br/>dashi sarang gateun geol hagesseo<br/><br/>daseot beonjae mianadan mari<br/>ijen neoegeneun jigyeoun geonji<br/>majimagil georan yegami deureo<br/>Oh you know what to do<br/>igeon naega oneul haru jongil<br/>geurin jeonyeogeun bunmyeong aniya<br/>neol bomyeon jakku ne ane<br/>naega boyeoseo<br/>ijen naega shireo<br/><br/>sarangi jal an dwae<br/>tteoollyeo bwado<br/>pibureul bibigo anabwado<br/>ipsureul majchweodo cham<br/>saenggakdaero doeji ana<br/>utgin geot gata<br/>doedollyeoboryeogo<br/>seoro moreun cheokhaedo<br/>ije wa uriga eotteoke<br/>dashi sarang gateun geol hagesseo<br/><br/>eodiya<br/>neon eodiya<br/>jibiya<br/>nan taekshiya<br/>jibe geoye da wagani<br/><br/>Oh mianae<br/>mweo eotteon ge<br/>geunyang da<br/>deureoga<br/>na jigap geogi dugo wasseo<br/><br/>Oh itjana<br/>aniya<br/>malhae bwa<br/>ije deo<br/>saranghaji anneun geot gata<br/>ah ah<br/><br/>sarangi jal an dwae<br/>tteoollyeo bwado<br/>pibureul bibigo anabwado<br/>ipsureul majchweodo cham<br/>saenggakdaero doeji ana<br/>utgin geot gata<br/>doedollyeoboryeogo<br/>seoro moreun cheokhaedo<br/>ije wa uriga eotteoke<br/>dashi sarang gateun geol hagesseo<br/>"
+		},
+		{
+			"id": 18,
+			"name_category": "SAD SONG MUSIC",
+			"title": "Jisun_WHAT SHOULD I DO",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Jisun_WHATSHOULDIDO.mp3",
+			"duration": "243",
+			"lyrics": "<br/>geu daen nuh mu dang yeon han du<br/>oonuel nae gae ah bu ull muyt nae yo<br/><br/>nan geu jeo jal jin nae da het jo<br/>geu daen jeong mal nal nuhmoo moryujo<br/><br/>geu dae upshido nae ga genchan nuell gut gat na you<br/>geu dae nun na up shi genchanayo<br/><br/>dang shin up neun sa sange nuh mu do himdull uhseo soom shi neun na ull onemanghetjo<br/><br/>uhtuk ha jo ah jik do nan geudae han madie busuh ji nun haru ull sal a yo<br/>geu dae nae gae malhae ba yo<br/>elawnungae na puninji gedaedo nacheorum<br/>haru ga ah puh go<br/>toh a pun ji malhae ba yo<br/>geu dae wa nan<br/><br/>eemi nomo nutonnayo oori dashi giwhenun uptnayo<br/>nan ah jik geudell saeng gak hae yo<br/>geu daen a ma aljido moulljo ha<br/>kullkook elungayo elukhae gutingayo<br/>geudae nun eedaero genchanayo<br/>nan ahdwell gut gateundae<br/>gateun sarangeun juk uh do nae gaen uputsultendae<br/><br/>uhtuk ha jo nae ma eumeun geudae nanee myen<br/>nu gu do ahn a jul su upsul tendae<br/>jabal naul jabahjoyo aljanayo<br/>na ran saram ahmulle aesuhdo<br/>geudae ull ji wool suga updangull<br/>jaebal naull jabajoyo<br/><br/>uhtuk ha jo ah jik do nan geudae han madie busuh ji nun haru ull sal a yo<br/>geu dae nae gae malhae ba yo<br/>elawnungae na puninji gedaedo nacheorum<br/>haru ga ah puh go<br/>toh a pun ji malhae ba yo<br/>geu dae wa nan<br/><br/>eemi nomo nutonnayo oori dashi giwhenun uptnayo<br/>nah ah jik geudel sanggakhaeyo<br/>geu daen ahma aljidomoulljo ha<br/>"
+		},
+		{
+			"id": 17,
+			"name_category": "SAD SONG MUSIC",
+			"title": "Onew X Rocoberry_LULLABY",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/OnewXRocoberry_LULLABY.mp3",
+			"duration": "201",
+			"lyrics": "<br/>Geudaen oneul bam jal jayo<br/>Eokkae wie geu jimeun deoreobeoryeoyo<br/>Haejul su ittneun nae heojeophan seonmul<br/>I noraeppunijyo<br/><br/>Geudaeyeo oneul bam jal jayo<br/>Naui pume gadeuk angyeoseoyo<br/>Ni yeppeun miso jikyeodallago<br/>Na gidohalkeyo<br/>Oneul bam jal jayo geudae<br/><br/>Woo woo woo woo<br/>woo woo woo<br/>Woo woo woo woo<br/>woo woo woo woo<br/>o geudae o geudae<br/><br/>Geudaen oneul bam jal jayo<br/>Oneul harudo sugo manhasseoyo<br/>Honjayeosseodo Werowosseodo<br/>Naega ittjanhayo<br/>Nae mal deullinayo<br/><br/>Geudaeyeo oneul bam jal jayo<br/>Geu mugeoun jim da naeryeonwayo<br/>Geu apeun maeum wiro batdorok<br/>Na gidohalkeyo<br/>Na gidohalkeyo<br/>Oneul bam jal jayo geudae<br/><br/>Woo woo woo woo<br/>woo woo woo<br/>Woo woo woo woo<br/>woo woo woo woo<br/>o geudae o geudae<br/><br/>Naui sarang geudae<br/>Oneul bam jal jayo<br/>"
+		},
+		{
+			"id": 16,
+			"name_category": "SAD SONG MUSIC",
+			"title": "RAIN_HOW TO AVOID THE SUN",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/RAIN_HOWTOAVOIDTHESUN.mp3",
+			"duration": "239",
+			"lyrics": "<br/>Ulgo inneun naui moseup babo gateun naui moseup<br/>Hwanhage bichuneun taeyangi sileo taeyangi sileo<br/>Nugunga nal arabomyeo wae unyago mureobomyeon<br/>Daedabeul hae jul suga eomneun ge neomu sileosseo<br/><br/>Taeyangeul pihago sipeosseo amuri dallyeo bwado<br/>Taeyangeun gyesok nae wie itgo<br/>Neoreul neomu itgo sipeosseo amuri aereul sseodo<br/>Amuri aereul sseodo neon nae ane isseo<br/><br/>Ajikdo neoui geu miso nareul manjyeotdeon geu du son<br/>Geuriwo haneun ge neomu sileosseo neomu sileosseo<br/>Maneun saramdeul sogeseo utgo yaegil nanumyeonseo<br/>Ijeo boryeo haetjiman tto dasi nunmuri heulleosseo<br/><br/>Taeyangeul pihago sipeosseo amuri dallyeo bwado<br/>Taeyangeun gyesok nae wie itgo<br/>Neoreul neomu itgo sipeosseo amuri aereul sseodo<br/>Amuri aereul sseodo neon nae ane isseo<br/><br/>Moduda naega ijeun jul ara hajiman nan michilgeot gata<br/>Neomu itgo sipeunde jiugo sipeunde geuge an dwae yeah ey yeah ey ey<br/><br/>(Taeyangeul pihago sipeosseo) pihago sipeosseo<br/>(Amuri dallyeo bwado) ooh ooh<br/>(Taeyangeun gyesok nae wie itgo) no ooh ooh<br/>(Neoreul neomu itgo sipeosseo) itgo sipeosseo (amuri aereul sseodo) no ooh ooh oh<br/>(Amuri aereul sseodo neon nae ane isseo) nae ane isseo (taeyangeul pihago sipeosseo) oh<br/>(Amuri dallyeo bwado taeyangeun gyesok nae wie itgo) gyesok gyesok itgo nan oh<br/>(Neoreul neomu itgo sipeosseo amuri aereul sseodo) aereul sseodo<br/>(Amuri aereul) sseodo neon nae ane isseo<br/><br/>Neomu giphi bakyeo ppael su eomneun gasigachi<br/>Neomu giphi dachyeo naeul su eomneun sangcheo gachi<br/>Neoraneun saram domuji jiwojijil anchi<br/>Heeojyeodo gachi saraganeun geot gatji<br/>Nunmullo neoreul da heullyeoseo jiwo<br/>Beoril suman itdamyeonya kkeuteopsi ureo<br/>Nae nunmul gangeul irwo heureul jeongdoro mani ureoseorado<br/>Neoreul itgo jedaero salgo sipeo jedaero salgo sipeo<br/>Yeah jedaero salgo sipeo<br/>"
+		},
+		{
+			"id": 15,
+			"name_category": "SAD SONG MUSIC",
+			"title": "Red Velvet_ONE OF THESE NIGHTS",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/RedVelvet_ONEOFTHESENIGHTS.mp3",
+			"duration": "260",
+			"lyrics": "<br/>Geunyang kkumeseo kkaen geoppuniya<br/>Tto dasi kkamadeukhan jeo seulpeun byeol hana<br/><br/>Jal ga seotulge insahago<br/>Dwidoraseo oneun gireun cham meolgido hada<br/><br/>Gateun sigane just for a minute<br/>Gateun gonggane stay for a minute<br/>Geu jjalpadeon sungan<br/>Modeun ge neowa nal wihae meomchwoitdeon geu sungan<br/>Wae geuge gijeogin geol mollasseulkka<br/><br/>Oraedoen storywa geu nare meomchun na<br/>Saranghan siganboda deo orae ibyeolhaneun jungingeol<br/>Eunhasu neomeoe adeukhi meon gose<br/>Hayan uriui gieogeul geonneoneun na<br/>Kkumsogirado gwaenchanheunikka<br/><br/>Uri dasi manna one of these nights<br/>Uri dasi manna one of these nights<br/><br/>Oh nan seodulleo ijji mothae<br/>Dallyeogeul neomgyeodo nan neul jejarinikka<br/><br/>Neoui nunbicche just for a minute<br/>Seuchin sonkkeute stay for a minute<br/>Geu jjalpadeon sungan<br/>Modeun ge neowa nal wihae meomchwoitdeon geu sungan<br/>Nan geu ttae banjjagige doen geot gata<br/><br/>Oraedoen storywa geu nare meomchun na<br/>Saranghan siganboda deo orae ibyeolhaneun jungingeol<br/>Eunhasu neomeoe adeukhi meon gose<br/>Hayan uriui gieogeul geonneoneun na<br/>Kkumsogirado gwaenchanheunikka<br/><br/>Baby one of these days<br/>One of these years<br/>Gidarimeun naegen sasohan iril ppunin geol<br/><br/>Oraedoen storywa geu nare meomchun na<br/>Saranghan siganboda deo orae ibyeolhaneun jungingeol<br/>Eunhasu neomeoe adeukhi meon gose<br/>Hayan uriui gieogeul geonneoneun na<br/>Kkumsogirado gwaenchanheunikka<br/><br/>Uri dasi manna one of these nights<br/>Uri dasi manna one of these nights<br/>"
+		},
+		{
+			"id": 14,
+			"name_category": "SAD SONG MUSIC",
+			"title": "SHINee_TELL ME WHAT TO DO",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/SHINee_TELLMEWHATTODO.mp3",
+			"duration": "247",
+			"lyrics": "<br/>Tell me what to do<br/>Tell me what to do<br/>Tell me what to do<br/>Tell me what to do<br/><br/>Yojeum nan I don't know, I don't know you<br/>Manheun geol pogihan deuthan nunbit<br/>Hajiman deullyeo mueonui oechim<br/>Tell me what to do<br/><br/>Geukjeokin jeongaedo eobtneun yeonin<br/>Sigani duneun paechakin geolkka?<br/>Kkeutnaeji anhado imi kkeutnan<br/>Tell me what to do<br/><br/>Pulliji anhneun maedeubeun<br/>Uri ape itneunde<br/>Naega meonjeo dagaga<br/>Makdareun gil kkeuteseo<br/>Heullin nunmule da jeojeobeorin<br/>Du boleul dakkajugo muleobollae<br/><br/>Tell me what to do<br/>Tell me what to do<br/>Tell me what to do<br/>Tell me what to do<br/><br/>Malhaji anhado alajugil<br/>Mwonga jugiman haetdaneun chakgak<br/>Iksukhan jonjaera deonjin maldeul<br/>Tell me what to do<br/><br/>Musimhaetdeon apeun mal<br/>Gipeun sangcheoreul namgin nal<br/>Naega yeojeonhi baboran sasilman<br/>Kkaedadge doeneun mal<br/><br/>Jiul suman itdamyeon<br/>Geureohgeman doendamyeon<br/><br/>Naega meonjeo dagaga<br/>Makdareun gil kkeuteseo<br/>Heullin nunmule da jeojeobeorin<br/>Du boleul dakkajugo muleobollae<br/><br/>Tell me what to do (meonjeo malhaejugil barae)<br/>Tell me what to do (Don't cry no more)<br/>Tell me what to do (neoui maeumi nareul bondamyeon)<br/>Tell me what to do (Don't cry no more)<br/><br/>Dangyeonhageman yeogyeotdeon ne jari<br/>Nega eobtdaneun geu sangsangmaneulodo<br/>Gyeondigi silheojyeo<br/>Sesangeun muneojyeo da<br/><br/>Am I the one for you<br/>Neon eonjejjeum yejeone nawa gyeonje jung<br/>Nega manhi byeonhaetdago malhaneun<br/>Naega gajang manhi byeonhaetji<br/>The one for me nan moreujiman<br/>Geu yaksokeul gyesok joreuji uri<br/>Siganeun gyesok meomuljiman uri<br/>Siganeun gyesok heomulji<br/><br/>Geu misoga naege wa deo hwanhage<br/>Chagabdeon soneun deo ttadeuthage<br/>Oerobdeon du gae yeonghoni manna<br/>Not lonely, lonely, lonely, lonely<br/>Dasi neol deulyeodabolge<br/>Ne sumeul gwie dameulge<br/>Uriman ppaego modeun geosi da byeonhaegado<br/><br/>Naega meonjeo dagaga (naega meonjeo dagaga)<br/>Makdareun gil kkeuteseo (Tell me what to do)<br/>Heullin nunmule da jeojeobeorin<br/>Du boleul dakkajugo muleobollae<br/><br/>Tell me what to do (meonjeo malhaejugil barae)<br/>Tell me what to do (Don't cry no more)<br/>Tell me what to do (neoui maeumi nareul bondamyeon)<br/>Tell me what to do (Don't cry no more)<br/><br/>Tell me what to do<br/>Tell me what to do<br/>Tell me what to do<br/>"
+		},
+		{
+			"id": 13,
+			"name_category": "SAD SONG MUSIC",
+			"title": "shinhwa_HURTS",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/shinhwa_HURTS.mp3",
+			"duration": "252",
+			"lyrics": "<br/>salmyeoshi yeope nuwo<br/>ni eolkul gaseume saekyeo,<br/>neo yeokshi himdeultende<br/>konhi jamdeun eolkullo<br/>haengbokhan kkumeul kkuneun neo<br/><br/>useodo useojiji anha<br/>chueoge sarojabhil ttae,<br/>achimi oji anhasseumyeon<br/>neol bonael su eoptke<br/><br/>and it hurts, and it hurts so bad,<br/>uri maeumkwah iptureun<br/>seoro dareun mareul haneunde apahaltende<br/>and it hurts, and it hurts so bad,<br/>yeongwonhi nae gaseumen<br/>neobakke eopseo<br/>waeh moreuni neon<br/>waeh moreuni and it hurts<br/><br/>Let it hurt, Let it hurt,<br/>Let it hurt so bad,<br/>Let it hurt, Let it hurt,<br/>Let it hurt so bad<br/><br/>jebal tashineun yakhaejiji malja<br/>saenggakkwah mareun dareuge<br/>gaseume beonjin<br/>inggeuwah nunmuri mareuge<br/>han jumye jaecheoreom jabeul su eomneun<br/>saecheoreom nal kkaetteuryeo,<br/>keu sogeseo neol tteona bonaege<br/><br/>chagabge kogael dollyeo,<br/>hamburo deonjin maldeure nan,<br/>jinshimi animyeonseo<br/>seoroye mameul chijeonwah<br/>juwo dameul su eomneun mal<br/><br/>teo isang saranghaji anha,<br/>keu saramkwah haengbokhaesseumyeon hae<br/>majimag butagiya jebal keunyang kajwo<br/><br/>and it hurts, and it hurts so bad,<br/>uri maeumkwah iptureun<br/>seoro dareun mareul haneunde apahaltende<br/>and it hurts (and it hurts~) , and it hurts so bad,<br/>yeongwonhi nae gaseumen<br/>neobakke eopseo<br/>waeh moreuni neon<br/>waeh moreuni and it hurts<br/><br/>ije kyeouna paewosseo neol saranghaneun beob.<br/>kalpi jocha mot jabgesseo<br/>neowah ibyeorhaneun beob.<br/>modu byeonhaeganeun geote gildeulyeojyeo ganeun geot,<br/>saneun geot, manheun geoseul da pogihae ganeun geot<br/>gaseum nopikkaji ssahin bamsae naerin nuneul chiwo,<br/>unneun ppiero hwahjangeul naneun jiwo<br/>bokku hal su eomneun hyujitongeul biwo,<br/>miro, wiiro nal keonjyeojugil gido<br/><br/>achimi omyeon<br/>talgomhan kkumeseo kkaeseo tteonaget-ji<br/>I don’t want Nobody else but you<br/>bonaeya haneunde<br/><br/>and it hurts, and it hurts so bad,<br/>uri maeumkwah iptureun<br/>seoro dareun mareul haneunde apahaltende<br/>and it hurts, and it hurts so bad,<br/>yeongwonhi nae gaseumen<br/>neobakke eopseo<br/>waeh moreuni neon<br/>waeh moreuni and it hurts<br/><br/>amugeotdo anboyeo<br/>nunmuri chaollaseo<br/>eodibuteo jalmotdwaehnneunji<br/>meori soge maemdorasseo<br/>mollasseo I was wrong<br/>nae yokshim ttaemae now you’re gone<br/>And I want you back baby girl<br/>I want you back<br/>"
+		},
+		{
+			"id": 12,
+			"name_category": "SAD SONG MUSIC",
+			"title": "super Junior_EVANESCE",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/superJunior_EVANESCE.mp3",
+			"duration": "225",
+			"lyrics": "<br/>Chimmuk, deo isang hago sipeun mari eomneunji<br/>Hayake ssodajideon useum kkocheun beolsseo sideunji<br/>Oraengeol eotteokhae<br/>Kkochipeun jyeoseo (jeomjeom)<br/>Heulgi doego (no)<br/>Bultadeon gyeokjeongeun jaega doego<br/>Wae johasseotdeon modeun geon kkok ireoke<br/><br/>Don't know why (don't know why)<br/>Tell me why (tell me why)<br/>Sarangeun kkeuteul hyanghaneunji<br/>Sarajil (sarajil)<br/>Modeun geon (modeun geon)<br/>Wae iri areumdaun geonji<br/>Geujeo hannat jjarbeun kkum<br/>Sarangeun hannat kkuneun kkum<br/><br/>Eodum, neoneun wae (neon wae oh-ah)<br/>Geomge modeun geol da jiwonae<br/>Amugeotdo mot boge<br/>Oh honja nae meotdaero yeongwonhal<br/>Miraereul kkumkkuge hae<br/><br/>Noeureun jyeoseo (jeomjeom)<br/>Geomeojigo (no)<br/>Padoneun eonjengan buseojigo<br/>Wae johasseotdeon modeun geon kkok ireoke<br/><br/>Don't know why (don't know why)<br/>Tell me why (tell me why)<br/>Sarangeun kkeuteul hyanghaneunji<br/>Sarajil (sarajil)<br/>Modeun geon (modeun geon)<br/>Wae iri areumdaun geonji<br/>Geujeo hannat jjarbeun kkum<br/>Sarangeun hannat kkuneun kkum<br/><br/>I bami kkeutnamyeon dasi taeyangeun<br/>Tteoolla balgaondaedo<br/>Jabeul sudo eobseul I sungani<br/>Beolsseo neomu geuriwo<br/><br/>I don't know (I don't know)<br/>Wanna know (wanna know)<br/>Ireoke kkeutnan kkumin geonji<br/>Saramdo (saramdo) sarangdo (sarangdo)<br/>Naneun wae kkael su eomneun geonji<br/><br/>Gyeolgugeun jamsi ppunil geol<br/>Sarangeun jamsi ppunin geol<br/>Seuchyeogal kkumil ppunin geol<br/>Ajigeun kkaegi sirheun geol<br/><br/>Hannat jjarbeun kkum<br/>Hannat kkuneun kkum<br/>Hannat jjarbeun kkum<br/>Hannat kkuneun kkum<br/>"
+		},
+		{
+			"id": 11,
+			"name_category": "SAD SONG MUSIC",
+			"title": "Tablo ft Taeyang_EYES NOSE LIPS",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/TabloftTaeyang_EYESNOSELIPS.mp3",
+			"duration": "217",
+			"lyrics": "<br/>You left me paralyzed<br/>No cure, no rehab for me<br/>Funny that you got the nerve to keep askin' me<br/>How I've been<br/>You're the victor in this pageantry<br/>But the only trophy you deserve catastrophe<br/>I'd rather we be dead to each other<br/>No eulogies said for each other<br/>No rest in peace's<br/>The memories, got my chest in pieces<br/>I'm prayin' that your eyes are the first to go<br/>The way they looked when you smiled, the way they opened and closed<br/>Then your nose, every single breath against my neck<br/>And then your lips, every empty promise made and said<br/><br/>Please fade, fade to black<br/>Please fade, fade to black<br/>But the nightmares come back<br/><br/>Because your eyes, nose, lips<br/>Every look and every breath, every kiss<br/>Still got me dyin'<br/>Still got me cryin'<br/>Because your eyes, nose, lips<br/>Every look and every breath, every kiss<br/>Still got me dyin'<br/>Still got me cryin'<br/><br/>Forget a promenade<br/>Let's juggernaut down memory lane<br/>Leave no thought alive to the slaughterhouse<br/>I'm takin' my pain<br/>It's time to sever my brain from my heart and soul<br/>My knees are burnin' hot but God is cold<br/>I've been told One day, you'll know too much of heaven's a sin<br/>After the show, it's only hell that it brings<br/>So take it slow and let time heal everything<br/>They say that time flies but you keep breakin' its wings<br/>You'll never fade<br/>Fade to black<br/><br/>Please fade, fade to black<br/>Please fade, fade to black<br/>But the nightmares come back<br/>Because your eyes, nose, lips<br/>Every look and every breath, every kiss<br/>Still got me dyin'<br/>Still got me cryin'<br/>Because your eyes, nose, lips<br/>Every look and every breath, every kiss<br/>Still got me dyin'<br/>Still got me cryin'<br/><br/>You wish me well<br/>You wish me well, I wish you hell<br/><br/>I never wanna look into your eyes again<br/>No, I never wanna hear you breathe again<br/>Let me go, let me go<br/>Baby, tell me this is the end<br/><br/>Because your eyes, nose, lips<br/>Every look and every breath, every kiss<br/>Still got me dyin'<br/>Still got me cryin'<br/>The tears drive me out of my mind<br/>Because your eyes, nose, lips<br/>Every look and every breath, every kiss<br/>Still got me dyin'<br/>Still got me cryin'<br/>Cryin' Cryin<br/><br/>G’night <br/>"
+		},
+		{
+			"id": 10,
+			"name_category": "SAD SONG MUSIC",
+			"title": "Jonghyun_END OF A DAY",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Jonghyun_ENDOFADAY.mp3",
+			"duration": "273",
+			"lyrics": "<br/>Soneul ppeodeojwo nae mogeul gamssajwo<br/>Jom deo arae nae eokkael jumulleo jwo<br/>Jichyeobeorin haru kkeut imi haega tteosseodo<br/>Nan ijeya nuneul gameuni<br/><br/>Namdeulboda neujge muneul datneun naui harue<br/>Jangnanseureopge gwisboreul ganjireophimyeo<br/>Haru jongil dareun sesange isseosseodo urin<br/>Hangsang haru kkeuteun hamkke hanikka<br/><br/>Neoui geu jageun eokkaega neoui geu jageun du soni<br/>Jichin nae haru kkeut pogeunhan iburi doego<br/>Sugohaesseoyo jeongmal gosaenghaesseoyo<br/>Negedo nae eokkaega mungtukhan naui du soni<br/>Jichin neoui haru kkeut pogeunhan wiroga doegireul<br/>Jayeonseure neowa sumeul majchugopa<br/><br/>Binteumeopsi neol gamssa anneun yokjo sok mulcheoreom<br/>Ttatteushage tto hanado binteumeopsge<br/>Seotun silsuga gadeukhaessdeon changpihan nae haru kkeuten<br/>Neoran jaranggeori nal gidarini<br/><br/>Neoui geu jageun eokkaega neoui geu jageun du soni<br/>Jichin nae haru kkeut pogeunhan iburi doego<br/>Sugohaesseoyo jeongmal gosaenghaesseoyo<br/>Negedo nae eokkaega mungtukhan naui du soni<br/>Jichin neoui haru kkeut pogeunhan wiroga doegireul<br/>Jayeonseure neowa sumeul majchugopa<br/><br/>Mamkkeot ul sudo tto mamkkeot useul sudo eopsneun<br/>Jichin haruui kkeut geuraedo geudae yeopimyeon<br/>Eorinaicheoreom chingeoldaeda sum neomeogadeut usda<br/>Nado eosaekhaejin nareul mannajyo<br/><br/>Sugohaesseoyo jeongmal gosaenghaesseoyo<br/>Geudaen naui jarangijyo<br/>"
+		},
+		{
+			"id": 9,
+			"name_category": "SAD SONG MUSIC",
+			"title": "JONGHYUN ft TAEYEON_LONELY",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/JONGHYUNftTAEYEON_LONELY.mp3",
+			"duration": "257",
+			"lyrics": "<br/>Mianhae nae tasiya<br/>Gomawo deokbuniya<br/>Tukhamyeon naebaetdeon ne geu malbeoreut<br/>Neodo himdeun geol nan da aneunde<br/>Ama neon naega babon jul ana bwa<br/><br/>Uneun eolgullo na himdeulda hamyeon<br/>Jeongmal naajilkka<br/>Geureom nuga himdeulkka apeuda jingjingdaemyeon<br/>Modu da gwaenchanhajineunde<br/><br/>Ama neowa nan chakgak soke<br/>Seororeul gadwodun ji molla<br/>Anya neoneun nal ihae mot hae<br/>Geokjeong eorin ne nuneul bol ttaemyeon<br/><br/>Baby I'm so lonely so lonely<br/>Naneun honja itneun geotman gatayo<br/>Jichin neol bol ttaemyeon naega neoege<br/>Hoksi jimi doelkka manhi beogeoulkka<br/><br/>Baby I'm so lonely so lonely<br/>Nado honja itneun geotman gatayo<br/>Geuraedo neoege ti naegi silheo<br/>Naneun honja chamneun ge deo iksukhae<br/>Nal ihaehaejwo<br/><br/>Urin hamkke itjiman gachi geotjil anhjanha<br/>Oeroumgwa goeroum gieok hana chain geonde (Ooh)<br/>Neon wae jakku dareugeman jeokeuryeo haneun geonji<br/><br/>Baby I'm so lonely so lonely<br/>Naneun honja itneun geotman gatayo<br/>Geuraedo neoege ti naegi silheo<br/>Naneun honja chamneun ge deo iksukhae<br/>Nal ihaehaejwo<br/><br/>Nal naebeoryeo dwo<br/><br/>Baby I'm so lonely so lonely<br/>Naneun honja itneun geotman gatayo<br/><br/>Baby I'm so lonely so lonely<br/>Nado honja itneun geotman gatayo<br/>Geuraedo neoege sumgigi silheo<br/>Naneun honja chamneun ge deo iksukhae<br/>Nal ihaehaejwo<br/>"
+		},
+		{
+			"id": 8,
+			"name_category": "SAD SONG MUSIC",
+			"title": "Leehi_BREATHE",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Leehi_BREATHE.mp3",
+			"duration": "274",
+			"lyrics": "<br/>Sumeul keuge swieobwayo<br/>Dangsinui gaseum yangjjogi jeorige<br/>Jogeumeun apaol ttaekkaji<br/>Sumeul deo baeteobwayo<br/>Dangsinui ane nameun ge eoptdago<br/>Neukkyeojil ttaekkaji<br/>Sumi beokchaollado gwaenchanhayo<br/>Amudo geudael tathajin anha<br/>Gakkeumeun silsuhaedo dwae<br/>Nugudeun geuraesseunikka<br/>Gwaenchanhdaneun mal<br/>Malppunin wirojiman<br/><br/>Nugungaui hansum geu mugeoun sumeul<br/>Naega eotteoke hearil suga isseulkkayo<br/>Dangsinui hansum geu gipil ihaehal sun eopgetjiman<br/>Gwaenchanhayo naega anajulgeyo<br/><br/>Sumi beokchaollado gwaenchanhayo<br/>Amudo geudael tathajin anha<br/>Gakkeumeun silsuhaedo dwae<br/>Nugudeun geuraesseunikka<br/>Gwaenchantaneun mal<br/>Malppunin wirojiman<br/><br/>Nugungaui hansum geu mugeoun sumeul<br/>Naega eotteoke hearil suga isseulkkayo<br/>Dangsinui hansum geu gipil ihaehal sun eopgetjiman<br/>Gwaenchanhayo naega anajulgeyo<br/><br/>Namdeul nunen him ppajineun<br/>Hansumeuro boiljin mollado<br/>Naneun algo itjyo<br/>Jageun hansum naebaetgido eoryeoun<br/>Harureul bonaetdan geol<br/>Ije dareun saenggageun mayo<br/>Gipi sumeul swieobwayo<br/>Geudaero naebaeteoyo<br/><br/>Nugungaui hansum geu mugeoun sumeul<br/>Naega eotteoke hearil suga isseulkkayo<br/>Dangsinui hansum geu gipil ihaehal sun eopgetjiman<br/>Gwaenchanhayo naega anajulgeyo<br/>Jeongmal sugohaesseoyo<br/>"
+		},
+		{
+			"id": 7,
+			"name_category": "SAD SONG MUSIC",
+			"title": "Lyn_MISS YOU CRYING",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Lyn_MISSYOUCRYING.mp3",
+			"duration": "264",
+			"lyrics": "<br/>amureochido anheun deut ije chingudeurege nongdamdo hae<br/>honjain ge deo pyeonhadago ireoke joheun jul mollatdago<br/>ssikssikhan cheok haebwado aesseo useum<br/>jieobwado nae nuneun geojitmareul mot hae<br/><br/>bogo sipeo unda bogo sipeo unda<br/>dallaego dallaebwado nan juruk juruk juruk juruk<br/>hayeomeobsi uldaga jichyeo sseureojyeo jamdeulmyeon<br/>kkumeseodo kkumeseodo neoreul bol suga eobseo<br/><br/>unda geujeo nan unda<br/>geunyang mujakjeong jibeul nawa iksukhan beoseue ollatago<br/>geuriun nae balgiri ikkeun eoneu goseseodo nareul<br/>saranghaetdeon neon eodiedo boiji anchanha<br/><br/>bogo sipeo unda bogo sipeo unda<br/>dallaego dallaebwado nan juruk juruk juruk juruk<br/>hayeomeobsi uldaga jichyeo sseureojyeo jamdeulmyeon<br/>kkumeseodo kkumeseodo neoreul bol suga eobseo<br/>mot haejun ge neomu manchanha<br/>mwo hana jalhaejun ge eobtjanha<br/>motnage gun ge mianhaeseo jakku nunmuri na<br/><br/>unda geujeo nan unda<br/>ijeuryeo aesseobwado jakkuman<br/><br/>bogo sipeo unda bogo sipeo unda<br/>dallaego dallaebwado nan juruk juruk juruk juruk<br/>hayeomeobsi uldaga jichyeo sseureojyeo jamdeulmyeon<br/>kkumeseodo kkumeseodo neoreul bol suga eobseo<br/><br/>unda geujeo nan unda<br/>unda<br/>"
+		},
+		{
+			"id": 6,
+			"name_category": "SAD SONG MUSIC",
+			"title": "NCTU_TIMELESS",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/NCTU_TIMELESS.mp3",
+			"duration": "251",
+			"lyrics": "<br/>Kkumil geoya<br/>Gieok sok moseub geudaero<br/>Nae nunape nega meomchwo isseo<br/><br/>Isanghaji<br/>Geu oraen shigan dwiedo<br/>Nae shimjangeun geunareul banbokhae<br/><br/>Du nuneul gameumyeon<br/>Gieogeun eoneusae<br/>Uril dashi geugoseuro deryeoga<br/><br/>Oneureun kkok malhaeya hal tende<br/>Soril nael suga eopseo<br/>Soneul ppeodeo neol jabeuryeo haedo<br/>Mamdaero andwae<br/><br/>Sueopshi yeonseubhan<br/>Ajik neol saranghae<br/>Kkeutkkeutnae hajil mothae<br/>Neol bonaemyeon an doel tende<br/><br/>I hyeonshil gateun kkumeseo kkae<br/>Agmong gateun harureul tto samkyeo<br/><br/>But which is real?<br/>Nega eopneun nae sesange<br/>Naege jueojin geon neol kkumkkuneun geotppun<br/><br/>Du nuneul gameumyeon<br/>Gieogeun eoneusae<br/>Uril dashi geugoseuro deryeoga<br/><br/>Oneureun kkok magaya hal tende<br/>Nuneul pihal su eopseo<br/>Bareul dollyeo domangchiryeo haedo<br/>Mamdaero andwae<br/><br/>Sueopshi doesaegin<br/>Ije geumanhaja<br/>Kkeutkkeutnae makjil mothae<br/>Neol bonaemyeon an doel tende<br/><br/>I agmongi (oh no no no)<br/>I gieogi<br/>Nal goerobhin daedo<br/>Myeot beoni banbokdoeeodo<br/>Neol dashi mannal su itneun<br/>I kkumeuro deureoga<br/><br/>Oneulmankeumeun<br/>Geunyang nagal su eopseo<br/>Shiganeul meomchwo<br/>Gieogeul dollyeo<br/><br/>Sueopshi kkumkkwotteon<br/>Dashi shijakhaja<br/>Kkeutkkeutnae haejundamyeon<br/>I kkumeseo nan sal tende<br/><br/>Oh yeah<br/>Kkaeji aneul tende<br/>"
+		},
+		{
+			"id": 5,
+			"name_category": "SAD SONG MUSIC",
+			"title": "TAEYEON_FINE",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/TAEYEON_FINE.mp3",
+			"duration": "211",
+			"lyrics": "<br/>jjijeojin jongitjogage<br/>damanaen naye jinshime<br/>seonmyeonghaejyeo somethin' bout you<br/><br/>Yeah nareul manhi dalmeun deut dareun<br/>neon hokshi nawa gateulkka jigeum<br/>gwaenhan gidaereul hae<br/><br/>haru han dal il nyeonjeum doemyeon<br/>seoro dareun ilsangeul saraga<br/><br/>naneun aniya<br/>swibji aneul geot gata<br/>yeojeonhagedo neon nae haruharureul chaeugo<br/>ajigeun aniya<br/>babocheoreom doenoeneun na<br/>ipgae maemdoneun mareul samkil su eopseo<br/>It's not fine<br/>Ah ah ah ah it's not fine<br/><br/>meoril jikkeun mukkeun chae<br/>eojireoun bangeul jeongnihae<br/>chatgo isseo somethin' new<br/><br/>gakkeum ireoke gamdanghal su eopneun<br/>mworado haeya hal geotman gateun gibune<br/>gwaeni umjigigon hae<br/><br/>haru han dal il nyeon geujjeumimyeon<br/>useumyeo chueokhal geora haetjiman<br/><br/>naneun aniya<br/>swibji aneul geot gata<br/>yeojeonhagedo neon nae haruharureul chaeugo<br/>ajigeun aniya<br/>babocheoreom doenoeneun na<br/>ipgae maemdoneun mareul samkil su eopseo<br/>It's not fine<br/>Ah ah ah ah it's not fine<br/><br/>uimi eopneun nongdam jugobadneun daehwa<br/>saramdeul teume nan amureochi ana boyeo<br/>mudin cheok useumeul jieo boimyeo<br/>neoran geuneureul aesseo oemyeonhaebojiman<br/><br/>uri majimak<br/>geu sungani jakku tteoolla<br/>jal jinaeran mari jeonbuyeotdeon damdamhan ibyeol<br/>ajigeun aniya<br/>babocheoreom doenoeneun geu mal<br/>ipgae maemdoneun mareul samkil su eopseo<br/>It's not fine<br/>Ah ah ah it's not fine oh<br/>Ah ah ah it's not fine<br/>"
+		},
+		{
+			"id": 4,
+			"name_category": "SAD SONG MUSIC",
+			"title": "TAEYEON_TIME LAPSE",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/TAEYEON_TIMELAPSE.mp3",
+			"duration": "255",
+			"lyrics": "<br/>yeojeonhi geudaerojyo saengireun<br/>myeot beonsshigina jinatgo<br/>bunmyeong na yeokshi jogeum deo<br/>eoreuni dwae itneun geot gateunde<br/><br/>ajikdo neoye geu ireumeul tteoollimyeon<br/>nunmuri maechigo jamshiman nuneul gameumyeon<br/>ni moseubi boigo modeun ge byeonhaegado<br/>neomaneun hangsang gateun jarieseo<br/>ttokgateun moseubeuro gyesok nal ullyeo<br/><br/>yeojeonhi geudaerojyo gyejeoreun<br/>myeot beonsshigina byeonhaetgo<br/>ijen neo eopneun ilsange<br/>jogeumeun iksukhaejil beobdo hande<br/><br/>ajikdo neoye geu ireumeul tteoollimyeon<br/>nunmuri maechigo jamshiman nuneul gameumyeon<br/>ni moseubi boigo modeun ge byeonhaegado<br/>neomaneun hangsang gateun jarieseo<br/>ttokgateun moseubeuro gyesok nal ullyeo<br/><br/>geurae ibyeoriran ge da geureon geoji mwo<br/>hamkkeyeoseo haengbokhaetdeon<br/>gieok modu jiwo ganeun geot<br/><br/>hajiman ijeuryeo hamyeon geureol ttaemyeon<br/>nunmuri maechigo (nunmuri maechyeo)<br/>maechyeojin geu nunmul wiro<br/>dashi niga heureugo shiganeun meomchwojigo<br/>aesseo sumgyeowatdeon naye maeumi<br/>joyonghi gogael deulgo<br/>haetaneun moksoriro dashi neol bulleo<br/><br/>geurae sarangiran ge da geureon geoji mwo<br/>hangsang shijakgwa kkeuteun dallado neomu dareugo<br/><br/>geurae ibyeoriran ge neul hangsang geureochi mwo<br/>deo gipi saranghan maeumeul chajawa ullyeo<br/><br/>geurae ibyeoriran ge gyesok nal ullyeo<br/>"
+		},
+		{
+			"id": 3,
+			"name_category": "SAD SONG MUSIC",
+			"title": "Urban Zakapa_IDONT LOVE YOU",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/UrbanZakapa_IDONTLOVEYOU.mp3",
+			"duration": "255",
+			"lyrics": "<br/>museun mareul halkka<br/>eodiseobuteo eotteohge<br/>gogaeman tteolguneun na<br/>geureon nal baraboneun neo<br/>geu eosaekhan chimmuk<br/>neol saranghaji anha<br/><br/>neodo algo issgessjiman<br/>nunmul heullineun neoui moseubedo nae maeum<br/>apeujiga anha<br/>neol saranghaji anha<br/><br/>dareun iyuneun eopseo<br/>mianhadaneun maldo<br/>yongseohae dallan maldo<br/>hago sipji anha<br/><br/>geunyang geuge jeonbuya<br/>ige nae jinsimingeoya<br/>neol saranghaji anha<br/>neol saranghaji anha<br/><br/>neol saranghaji anha<br/>neodo algo issgessjiman<br/>nunmul heullineun neoui moseubedo nae maeum<br/>apeujiga anha<br/><br/>neol saranghaji anha<br/>dareun iyuneun eopseo<br/>mianhadaneun maldo<br/>yongseohae dallan maldo hago sipji anha<br/><br/>geunyang geuge jeonbuya<br/>ije nae jinsimingeoya<br/>neol saranghaji anha<br/>neol saranghaji anha<br/><br/>neol saranghaji anha<br/>dareun iyuneun eopseo<br/>mianhadaneun maldo<br/>yongseohae dallan maldo<br/>hago sipji anha<br/><br/>geunyang geuge jeonbuya<br/>ige nae jinsimingeoya<br/>neol saranghaji anha<br/>neol saranghaji anha<br/>"
+		},
+		{
+			"id": 2,
+			"name_category": "SAD SONG MUSIC",
+			"title": "SUZY_IM IN LOVE WITH SOME ONE ELSE",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/SUZY_IMINLOVEWITHSOMEONEELSE.mp3",
+			"duration": "241",
+			"lyrics": "<br/>Niga sangcheobatji anke<br/>Eotteoke mareul kkeonaelkka<br/>Yeppeun mal jeokdanghan pinggyero<br/>Neol bonaego nan tteonaryeo haesseo<br/><br/>Ireoseon nareul butjapgo eongeong ulmyeo<br/>Maedalligi jeon kkaji marya<br/><br/>Dareun sarameul saranghago isseo<br/>Da malhago shipji anasseo<br/>Neon joeun saraminikka<br/>Heomureojineun moraeseongeul butjapgo<br/>Deo aereul sseuryeo haji ma<br/>Neo anin dareun sarameul<br/>Saranghago isseo<br/><br/>Baran geotto hana eopshi<br/>Neon hangsang modeun geol jweosseo<br/>Haengbokan naega neoye haengbogiramyeo<br/>Neon eonjena naman barabwasseo<br/><br/>Geureonde neoye sarangi jeomjeom jicheo<br/>Byeonmyeong haji anko da malhalge<br/><br/>Dareun sarameul saranghago isseo<br/>Da malhago shipji anasseo<br/>Neon joeun saraminikka<br/>Heomureojineun moraeseongeul butjapgo<br/>Deo aereul sseuryeo haji ma<br/>Neo anin dareun sarameul<br/><br/>Geokjeonghadagado<br/>Kkamake neol ijeul mankeum<br/>Jinshimeuro saranghago isseo<br/><br/>Areumdaweotteon sarange kkeuteseo<br/>Da malhago shipji anasseo<br/>Niga apeulkka bwa<br/>Heomureojineun moraeseongeul butjapgo<br/>Deo aereul sseuryeo haji ma<br/>Neo anin dareun sarameul<br/>Saranghago isseo<br/>"
+		},
+		{
+			"id": 1,
+			"name_category": "SAD SONG MUSIC",
+			"title": "VIXX LR_BEAUTIFULL LIAR",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/VIXXLR_BEAUTIFULLLIAR.mp3",
+			"duration": "235",
+			"lyrics": "<br/>Igeon Beautiful lie<br/>Nae majimak geojitmal<br/>Jugeul mankeum apado<br/>Neoreul wihae nan<br/>Gamyeon soge nareul gamchune<br/><br/>Geoul soge bichin na jasinege dasi mureobwa<br/>Naega neoreul bonaejuneun ge ne haengbogi majeulkka<br/>Na ttawineun ssak da beoseodeonjigo tto<br/>Neon honjamanui goyohan sigani piryohae<br/>Mamedo eomneun maldeureul deonjin geon anilkka<br/>Kkeojyeobeoryeora oechideon<br/>Neoui pyojeongdeureul doegameumyeo<br/>Gyesok aesseo areumdawotdeon uri chueogeul<br/>Deoreophigo isseo nan ajikkkajin neo ppajin salmeul<br/>Sangsanghajin anhatjiman haengbokhae jwo<br/>Nae geojitmarirado bichi nage<br/><br/>Kkwak jwin du son nochiman<br/>Nae mameun ttokgata<br/>Hajiman bonaejulge<br/>Ije du soneul nochiman<br/>Nae mamdo ttokgata<br/>Neol wihae ijjeumeseo<br/>Kkeutnaeneun ge manneun geot gata<br/><br/>Igeon Beautiful lie<br/>Nae majimak geojitmal<br/>Jugeul mankeum apado<br/>Jigeum i sungan<br/>Gamyeon soge nareul sumgin chae<br/><br/>Neon nareul tteonagado gwaenchanha<br/>Nega haengbokhamyeon jokesseo<br/>Oh nan<br/>I'm a beautiful<br/>I'm a beautiful liar<br/><br/>Neon gyesok nae ape seoseo<br/>Hayeomeopsi nunmul heullyeo<br/>Yesangchi mothaetdeon daesa hue<br/>Pyeolchyeojin daeum Chapter<br/>Neon naega baeteonaen maldeureul<br/>Dasi juwo dameuramyeonseo<br/>Nae eolgureul jaba sseureonaerimyeo<br/>Jeomcha jujeoango isseo<br/>Naega geuryeobwatdeon miraeneun ige anya<br/>Jure mukkyeobeorin oeroun gaemanyang<br/>Neoman baraboneun ge joe gataseo nan nae<br/>Miryeon ttawineun samkigo neol<br/>Tteonabonae juryeoneun geoya bandeusi<br/>Nabodan jal sallago<br/>Yaksokhaja malhaneun sungan neon<br/>Nareul doraseone<br/><br/>Jeoldaero maedalliji anha nan useulge<br/>Ige (geurae ige) naya (naya) deo mangseoriji ma<br/>Tteona<br/><br/>Igeon Beautiful lie<br/>Nae majimak geojitmal<br/>Jugeul mankeum apado<br/>Jigeum i sungan<br/>Gamyeon soge nareul sumgin chae<br/><br/>Neon nareul tteonagado gwaenchanha<br/>Nega haengbokhamyeon jokesseo<br/>Oh nan<br/>I'm a beautiful<br/>I'm a beautiful liar<br/><br/>Neol hyanghan majimak<br/>Nae mameul jul sigan<br/>Uriga saranghan jachega areumdawotda<br/>Neol hyanghan majimak<br/>Nae mameul jul sigan<br/>Uriga saranghan jachega areumdawotda<br/><br/>Jokswaecheoreom nal butdeuneun<br/>Naboda deo na gateun na<br/>(Dwidora naege dallyeowa<br/>Eoriseogeun geojitmal mallamyeo<br/>Misoreul jitgo nae apeseo)<br/><br/>It's a beautiful pain<br/>Neoreul bonaejuneun il<br/>Nae ane nal jugigo<br/>Nunmul samkimyeo<br/>Utgo inneun gamyeoneul sseune<br/><br/>Nan jigeum neomuna holgabunhae<br/>Jebal nae geokjeongeun hajima<br/>Oh nan<br/>I'm a beautiful<br/>Ani bigeophan Liar<br/>"
+		}
+
+	]
+}

@@ -1,14 +1,14 @@
 {
 	"Ads": [{
 		"select_main_ads": "ADMOB",
-		"select_backup_ads": "STARTAPP",
-		"main_ads_banner": "ca-app-pub-8359503984668545/7923265555",
-		"main_ads_intertitial": "ca-app-pub-8359503984668545/1614853985",
+		"select_backup_ads": "",
+		"main_ads_banner": "",
+		"main_ads_intertitial": "",
 		"backup_ads_banner": "qwerty1234",
 		"backup_ads_intertitial": "qwerty1234",
 		"interval_intertitial": 3,
-		"initialize_sdk": "202423544",
-		"initialize_sdk_backup_ads": "202423544",
+		"initialize_sdk": "null",
+		"initialize_sdk_backup_ads": "null",
 		"high_paying_keyword_1": "",
 		"high_paying_keyword_2": "",
 		"high_paying_keyword_3": "",
@@ -19,15 +19,15 @@
 	}],
 	"Categories": [{
 			"id": 1,
-			"name_category": "NCT",
+			"name_category": "NCT BEST SONG ",
 			"image": "file:///android_asset/image/anyar.jpg"
 		}
 
 
 	],
 	"Data": [{
-			"id": 1,
-			"name_category": "NCT",
+			"id": 60,
+			"name_category": "NCT BEST SONG ",
 			"title": "Baby Dont Stop",
 			"image": "file:///android_asset/image/anyar.jpg",
 			"link_mp3": "mp3/A5BabyDontStop.mp3",
@@ -35,8 +35,8 @@
 			"lyrics": ""
 		},
 		{
-			"id": 2,
-			"name_category": "NCT",
+			"id": 59,
+			"name_category": "NCT BEST SONG ",
 			"title": "BOOM",
 			"image": "file:///android_asset/image/anyar.jpg",
 			"link_mp3": "mp3/A6BOOM.mp3",
@@ -44,8 +44,8 @@
 			"lyrics": ""
 		},
 		{
-			"id": 3,
-			"name_category": "NCT",
+			"id": 58,
+			"name_category": "NCT BEST SONG ",
 			"title": "BOSS",
 			"image": "file:///android_asset/image/anyar.jpg",
 			"link_mp3": "mp3/A7BOSS.mp3",
@@ -53,8 +53,8 @@
 			"lyrics": ""
 		},
 		{
-			"id": 4,
-			"name_category": "NCT",
+			"id": 57,
+			"name_category": "NCT BEST SONG ",
 			"title": "Candle Light",
 			"image": "file:///android_asset/image/anyar.jpg",
 			"link_mp3": "mp3/A8CandleLight.mp3",
@@ -62,8 +62,8 @@
 			"lyrics": ""
 		},
 		{
-			"id": 5,
-			"name_category": "NCT",
+			"id": 56,
+			"name_category": "NCT BEST SONG ",
 			"title": "Chain",
 			"image": "file:///android_asset/image/anyar.jpg",
 			"link_mp3": "mp3/A9Chain.mp3",
@@ -71,8 +71,8 @@
 			"lyrics": ""
 		},
 		{
-			"id": 6,
-			"name_category": "NCT",
+			"id": 55,
+			"name_category": "NCT BEST SONG ",
 			"title": "90S",
 			"image": "file:///android_asset/image/anyar.jpg",
 			"link_mp3": "mp3/A490S.mp3",
@@ -80,8 +80,8 @@
 			"lyrics": ""
 		},
 		{
-			"id": 7,
-			"name_category": "NCT",
+			"id": 54,
+			"name_category": "NCT BEST SONG ",
 			"title": "RESONANCE",
 			"image": "file:///android_asset/image/anyar.jpg",
 			"link_mp3": "mp3/A3RESONANCE.mp3",
@@ -89,8 +89,8 @@
 			"lyrics": ""
 		},
 		{
-			"id": 8,
-			"name_category": "NCT",
+			"id": 53,
+			"name_category": "NCT BEST SONG ",
 			"title": "HOT SAUCEE",
 			"image": "file:///android_asset/image/anyar.jpg",
 			"link_mp3": "mp3/A2HOTSAUCE.mp3",
@@ -98,8 +98,8 @@
 			"lyrics": "Hot sauce gipi dip that eh<br/>Nal ttara neon twist that eh<br/>Hot sauce taoreul ttae ooh<br/>Immatdaero golla ma dish<br/></p>Neon mwoga gunggeumhae<br/>Naneun neomanui chef<br/>Igeon neoreul wihan plate<br/>Yeah naega mat boyeo julge<br/></p>Siganeun chungbunhae jigeum uri<br/>Nunchido boji ma geujeo taste it<br/>Nae bibeobeun saekdareun spicy<br/>Saljjangman seuchyeodo jeongsineopji<br/></p>Seoltangi ballin masen<br/>Inae jilligi swiwo<br/>Tteugeoun naui feelin'<br/>Jigeum neukkyeotji neon<br/>Neowa nae sai seonmyeonghi boin<br/>Keojyeoman ganeun yeolgi<br/>Nan ogameul kkaewo ne mameul kkaewo<br/>Teojil geonman gateun ma skill<br/></p>Golla ma dish<br/>Golla ma dish<br/>Golla ma dish<br/>Hot sauce gipi dip that eh<br/>Nal ttara neon twist that eh<br/>Hot sauce taoreul ttae ooh<br/>Immatdaero golla ma dish<br/></p>Aye bangsim hajima<br/>Uh binteumi eopseul tenikka<br/>Yeah neon jageukjeogin nae gamgak<br/>Ooh ganeunghagenni gamdang nope<br/></p>Yeah yeah beotil teogi eopjana<br/>Nahginjangeul deo pulgoseo neon<br/>Bon appétit now that's right<br/>Juche mot hae jakku ppajyeodeuneun mat<br/>Cuz you can't stop<br/>Nan kkeutkkaji get ya<br/></p>Chatge doel geol every day<br/>(And every night)<br/>Jungdokdwae imi neon<br/>Ne mameul deo seokkeonwa<br/>(Ijen namgimeopsi)<br/>Gyesok wonhage dwae<br/>Eojireon meori ne du sonbari<br/>Ikkeullyeo naege imi<br/>Jom deo jageukjeogil mae sungandeuri<br/>Gangnyeolhae what we gon' eat<br/></p>Golla ma dish<br/>(I'm the one<br/>What you want<br/>What you want<br/>What you want ah ya)<br/>Golla ma dish<br/>(I'm the one<br/>What you want<br/>What you want<br/>What you want ah ya)<br/>Golla ma dish<br/>Hot sauce gipi dip that eh<br/>Nal ttara neon twist that eh<br/>Hot sauce taoreul ttae ooh<br/>Immatdaero golla ma dish<br/></p>Neoreul samkyeobeorin feelin'<br/>Sarojabeun ireon kkeullim<br/>Ttel suga eopjana<br/>Jom deo gipi ppajyeodeul ttae<br/>Wonhae wonhae wonhaebwa deo babe<br/>Eolmadeunji deo barae barae babe<br/>Neoui hyeokkeut wiro areungeoril<br/>Wanbyeokaejin maseul jeulgyeo<br/>You want it babe<br/></p>(I'm the one<br/>What you want<br/>What you want<br/>What you want ah ya)<br/>Golla ma dish<br/>(I'm the one<br/>What you want<br/>What you want<br/>What you want ah ya)<br/>Golla ma dish<br/>Hot sauce gipi dip that eh<br/>Nal ttara neon twist that eh<br/>Hot sauce taoreul ttae ooh<br/>Immatdaero golla ma dish<br/>"
 		},
 		{
-			"id": 9,
-			"name_category": "NCT",
+			"id": 52,
+			"name_category": "NCT BEST SONG ",
 			"title": "HELLO FUTURE",
 			"image": "file:///android_asset/image/anyar.jpg",
 			"link_mp3": "mp3/A1HELLOFUTURE.mp3",
@@ -107,8 +107,8 @@
 			"lyrics": "Big dreams and big thrills<br/>Flying high teomunieomneun sangsanghaebwa<br/>Ne nunape dallyeodeulgo inneun byeol<br/>Nakka chae bureul taewo bwa<br/></p>Sijagiraneun geol neon mideul su itgenni?<br/>Ijeya sarangeul al geot gata<br/>Ready or not ganeun geoya nareul mideo<br/>Soldiers knocking doors down, yelling out<br/>Jeonjaeng jeonjaeng gatdeon sigandeureun<br/>Modu dwiro bonae (Ayy) gaseumi sorichine (Yeah)<br/>Dallyeoga nara bwa<br/>If you're rocking with me oh, oh (Come on)<br/></p>Here we go, here we go, satellite radio<br/>Nae miraee jeonhae jwo<br/>On sesanggwa jeo gwangya wiro (Ayy)<br/>Huhoe eopsi saranghaetdago malhage<br/></p>Gidaryeosseo eoseo wa<br/>Eodideun we're coming together<br/>Amu geokjeong haji ma<br/>Jal doel geoya hello future<br/>Neoreul manna gachi deo binna yeah, yeah, yeah, yeah<br/>Ay, we're on the way up, we're on the way up<br/>Areumdaun siganman ssacha yeah, yeah, yeah, yeah, yeah<br/>We're going way up, we're going (Yeah, yeah, yeah)<br/></p>On our way up, hello future (Yeah yeah)<br/>On our way up, hello future<br/></p>Ay miraeui neoreul jouhage dwaesseo (Uh)<br/>Gyeonggye wiro soneul matdaemyeon<br/>Urin neomu dala isseo<br/>Yo mwol deo chatge doelji (Uh) gyeolguk utge doelji (Ayy)<br/>Jigeumbuteon (Ayy) unmyeongirago hae (Bang, bang, bang)<br/>Fire, fire, jaukan yeongi soge (Yeah)<br/>Saranameun ki jageun kkotcheoreom (Straight facts)<br/>Gateun sigan soge neoreul saranghago isseo<br/></p>Here we go, here we go<br/>Nalgaereul pyeolchigo<br/>Tto kkeokkigo dachyeodo<br/>Nuguboda ganghan neojana<br/>Miraeui miraeedo neol saranghal naran geol<br/></p>Gidaryeosseo eoseo wa<br/>Eodideun we're coming together<br/>Amu geokjeong haji ma<br/>Jal doel geoya hello future<br/>Neoreul manna gachi deo binna yeah, yeah<br/>Ay, we're on the way up, we're on the way up<br/>Areumdaun siganman ssacha yeah, yeah<br/>We're going way up, we're going<br/></p>Ay, I'm tryna' center me<br/>Hey, where your center be?<br/>Heundeulliji anke georeo naagal su isseulji<br/>Too many cynical geokkuro gatdeon entropy<br/>Geu eodijjeum neo gidarigo isseulji<br/></p>Meolji ana nuneul tteo bwa<br/>Naega wonhan modeun geon neoppunirago<br/>We're on our way up<br/>Ta beorin chae yeorin ongiui<br/>Nameun jaetdeomi soge ready to clap back<br/>Geuri meolji aneun peace<br/>Apeun sigani daman jjalgireul barago tto wonhaetji<br/>Who you gon' believe?<br/>Yeah, yeah<br/></p>Gidaryeosseo eoseo wa<br/>Eodideun we're coming together (We're coming together)<br/>Amu geokjeong haji ma (Woah, yeah)<br/>Jal doel geoya hello future<br/>Neoreul manna (Oh) gachi deo binna yeah, yeah, yeah, yeah<br/>Ay, we're on the way up, we're on the way up<br/>Areumdaun siganman (areumdaun siganman) ssacha yeah, yeah<br/>We're going way up<br/></p>We're going way up (Ooh; Woo, yeah)<br/>Gyeote hamkke isseojwo (ne gyeoteseo)<br/>Ojik neomani nae miraeraneun geol (Ooh)<br/>Just keep looking to the stars (Ooh; Yeah, Hello future)<br/>Neol gidaryeosseo (Ooh; Hello future, Woah-woah)<br/>"
 		},
 		{
-			"id": 10,
-			"name_category": "NCT",
+			"id": 51,
+			"name_category": "NCT BEST SONG ",
 			"title": "Cherry Bomb",
 			"image": "file:///android_asset/image/anyar.jpg",
 			"link_mp3": "mp3/B1CherryBomb.mp3",
@@ -116,8 +116,8 @@
 			"lyrics": ""
 		},
 		{
-			"id": 11,
-			"name_category": "NCT",
+			"id": 50,
+			"name_category": "NCT BEST SONG ",
 			"title": "Chewing Gum",
 			"image": "file:///android_asset/image/anyar.jpg",
 			"link_mp3": "mp3/B2ChewingGum.mp3",
@@ -125,8 +125,8 @@
 			"lyrics": ""
 		},
 		{
-			"id": 12,
-			"name_category": "NCT",
+			"id": 49,
+			"name_category": "NCT BEST SONG ",
 			"title": "Fire Truck",
 			"image": "file:///android_asset/image/anyar.jpg",
 			"link_mp3": "mp3/B3FireTruck.mp3",
@@ -134,8 +134,8 @@
 			"lyrics": ""
 		},
 		{
-			"id": 13,
-			"name_category": "NCT",
+			"id": 48,
+			"name_category": "NCT BEST SONG ",
 			"title": "Fireflies",
 			"image": "file:///android_asset/image/anyar.jpg",
 			"link_mp3": "mp3/B4Fireflies.mp3",
@@ -143,8 +143,8 @@
 			"lyrics": ""
 		},
 		{
-			"id": 14,
-			"name_category": "NCT",
+			"id": 47,
+			"name_category": "NCT BEST SONG ",
 			"title": "From Home",
 			"image": "file:///android_asset/image/anyar.jpg",
 			"link_mp3": "mp3/B5FromHome.mp3",
@@ -152,8 +152,8 @@
 			"lyrics": ""
 		},
 		{
-			"id": 15,
-			"name_category": "NCT",
+			"id": 46,
+			"name_category": "NCT BEST SONG ",
 			"title": "Kick It",
 			"image": "file:///android_asset/image/anyar.jpg",
 			"link_mp3": "mp3/B6KickIt.mp3",
@@ -161,8 +161,8 @@
 			"lyrics": ""
 		},
 		{
-			"id": 16,
-			"name_category": "NCT",
+			"id": 45,
+			"name_category": "NCT BEST SONG ",
 			"title": "Limitless",
 			"image": "file:///android_asset/image/anyar.jpg",
 			"link_mp3": "mp3/B7Limitless.mp3",
@@ -170,17 +170,17 @@
 			"lyrics": ""
 		},
 		{
-			"id": 17,
-			"name_category": "NCT",
+			"id": 44,
+			"name_category": "NCT BEST SONG ",
 			"title": "Make A Wish (Birthday Song)",
 			"image": "file:///android_asset/image/anyar.jpg",
-			"link_mp3": "mp3/B8MakeAWish(Birthday Song).mp3",
+			"link_mp3": "mp3/B8MakeAWish(BirthdaySong).mp3",
 			"duration": "230",
 			"lyrics": ""
 		},
 		{
-			"id": 18,
-			"name_category": "NCT",
+			"id": 43,
+			"name_category": "NCT BEST SONG ",
 			"title": "Misfit",
 			"image": "file:///android_asset/image/anyar.jpg",
 			"link_mp3": "mp3/B9Misfit.mp3",
@@ -188,8 +188,8 @@
 			"lyrics": ""
 		},
 		{
-			"id": 19,
-			"name_category": "NCT",
+			"id": 42,
+			"name_category": "NCT BEST SONG ",
 			"title": "Regular",
 			"image": "file:///android_asset/image/anyar.jpg",
 			"link_mp3": "mp3/C1Regular.mp3",
@@ -197,8 +197,8 @@
 			"lyrics": ""
 		},
 		{
-			"id": 20,
-			"name_category": "NCT",
+			"id": 41,
+			"name_category": "NCT BEST SONG ",
 			"title": "Simon Says",
 			"image": "file:///android_asset/image/anyar.jpg",
 			"link_mp3": "mp3/C2SimonSays.mp3",
@@ -206,8 +206,8 @@
 			"lyrics": ""
 		},
 		{
-			"id": 21,
-			"name_category": "NCT",
+			"id": 40,
+			"name_category": "NCT BEST SONG ",
 			"title": "Stronger",
 			"image": "file:///android_asset/image/anyar.jpg",
 			"link_mp3": "mp3/C3Stronger.mp3",
@@ -215,8 +215,8 @@
 			"lyrics": ""
 		},
 		{
-			"id": 22,
-			"name_category": "NCT",
+			"id": 39,
+			"name_category": "NCT BEST SONG ",
 			"title": "Summer 127",
 			"image": "file:///android_asset/image/anyar.jpg",
 			"link_mp3": "mp3/C4Summer127.mp3",
@@ -224,8 +224,8 @@
 			"lyrics": ""
 		},
 		{
-			"id": 23,
-			"name_category": "NCT",
+			"id": 38,
+			"name_category": "NCT BEST SONG ",
 			"title": "THE 7TH SENSE",
 			"image": "file:///android_asset/image/anyar.jpg",
 			"link_mp3": "mp3/C5THE7THSENSE.mp3",
@@ -233,17 +233,17 @@
 			"lyrics": ""
 		},
 		{
-			"id": 24,
-			"name_category": "NCT",
+			"id": 37,
+			"name_category": "NCT BEST SONG ",
 			"title": "Volcano",
 			"image": "file:///android_asset/image/anyar.jpg",
-			"link_mp3": "mp3/Volcano.mp3",
+			"link_mp3": "mp3/C6Volcano.mp3",
 			"duration": "235",
 			"lyrics": ""
 		},
 		{
-			"id": 25,
-			"name_category": "NCT",
+			"id": 36,
+			"name_category": "NCT BEST SONG ",
 			"title": "Wakey Wakey",
 			"image": "file:///android_asset/image/anyar.jpg",
 			"link_mp3": "mp3/C7WakeyWakey.mp3",
@@ -251,8 +251,8 @@
 			"lyrics": ""
 		},
 		{
-			"id": 26,
-			"name_category": "NCT",
+			"id": 35,
+			"name_category": "NCT BEST SONG ",
 			"title": "We Go Up",
 			"image": "file:///android_asset/image/anyar.jpg",
 			"link_mp3": "mp3/C8WeGoUp.mp3",
@@ -260,8 +260,8 @@
 			"lyrics": ""
 		},
 		{
-			"id": 27,
-			"name_category": "NCT",
+			"id": 34,
+			"name_category": "NCT BEST SONG ",
 			"title": "We Young",
 			"image": "file:///android_asset/image/anyar.jpg",
 			"link_mp3": "mp3/C9WeYoung.mp3",
@@ -269,14 +269,303 @@
 			"lyrics": ""
 		},
 		{
-			"id": 28,
-			"name_category": "NCT",
+			"id": 33,
+			"name_category": "NCT BEST SONG ",
 			"title": "Work It",
 			"image": "file:///android_asset/image/anyar.jpg",
 			"link_mp3": "mp3/D1WorkIt.mp3",
 			"duration": "188",
 			"lyrics": ""
+		},
+		{
+			"id": 32,
+			"name_category": "NCT BEST SONG ",
+			"title": "EARTHQUAKE",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/D2EARTHQUAKE.mp3",
+			"duration": "254",
+			"lyrics": ""
+		},
+		{
+			"id": 31,
+			"name_category": "NCT BEST SONG ",
+			"title": "STICKER",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/D3STICKER.mp3",
+			"duration": "271",
+			"lyrics": ""
+		},
+		{
+			"id": 30,
+			"name_category": "NCT BEST SONG ",
+			"title": "Beautiful",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/D4Beautiful.mp3",
+			"duration": "307",
+			"lyrics": ""
+		},
+		{
+			"id": 29,
+			"name_category": "NCT BEST SONG ",
+			"title": "DREAMING",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/D5DREAMING.mp3",
+			"duration": "236",
+			"lyrics": ""
+		},
+		{
+			"id": 28,
+			"name_category": "NCT BEST SONG ",
+			"title": "Birthday Party",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/D6BirthdayParty.mp3",
+			"duration": "244",
+			"lyrics": ""
+		},
+		{
+			"id": 27,
+			"name_category": "NCT BEST SONG ",
+			"title": "KNOW NOW",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/D7KNOWNOW.mp3",
+			"duration": "275",
+			"lyrics": ""
+		},
+		{
+			"id": 26,
+			"name_category": "NCT BEST SONG ",
+			"title": "OK",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/D8OK.mp3",
+			"duration": "273",
+			"lyrics": ""
+		},
+		{
+			"id": 25,
+			"name_category": "NCT BEST SONG ",
+			"title": "ROUND&ROUND",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/D9ROUND&ROUND.mp3",
+			"duration": "249",
+			"lyrics": ""
+		},
+		{
+			"id": 24,
+			"name_category": "NCT BEST SONG ",
+			"title": "Sweet Dream",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/E1SweetDream.mp3",
+			"duration": "257",
+			"lyrics": ""
+		},
+		{
+			"id": 23,
+			"name_category": "NCT BEST SONG ",
+			"title": "VROOM",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/E2VROOM.mp3",
+			"duration": "271",
+			"lyrics": ""
+		},
+		{
+			"id": 22,
+			"name_category": "NCT BEST SONG ",
+			"title": "New Axis",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/E3NewAxis.mp3",
+			"duration": "178",
+			"lyrics": ""
+		},
+		{
+			"id": 21,
+			"name_category": "NCT BEST SONG ",
+			"title": "Good Night",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/E4GoodNight.mp3",
+			"duration": "238",
+			"lyrics": ""
+		},
+		{
+			"id": 20,
+			"name_category": "NCT BEST SONG ",
+			"title": "Miracle",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/E5Miracle.mp3",
+			"duration": "236",
+			"lyrics": ""
+		},
+		{
+			"id": 19,
+			"name_category": "NCT BEST SONG ",
+			"title": "Universe_Let'sPlayBall",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/E6Universe_LetsPlayBall.mp3",
+			"duration": "231",
+			"lyrics": ""
+		},
+		{
+			"id": 18,
+			"name_category": "NCT BEST SONG ",
+			"title": "So Am I",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/E7SoAmI.mp3",
+			"duration": "185",
+			"lyrics": ""
+		},
+		{
+			"id":17,
+			"name_category": "NCT BEST SONG ",
+			"title": "No Longer",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/E8NoLonger.mp3",
+			"duration": "294",
+			"lyrics": ""
+		},
+		{
+			"id": 16,
+			"name_category": "NCT BEST SONG ",
+			"title": "Replay",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/E9Replay.mp3",
+			"duration": "224",
+			"lyrics": ""
+		},
+		{
+			"id": 15,
+			"name_category": "NCT BEST SONG ",
+			"title": "ROAD TRIP",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/F1ROADTRIP.mp3",
+			"duration": "248",
+			"lyrics": ""
+		},
+		{
+			"id": 14,
+			"name_category": "NCT BEST SONG ",
+			"title": "Punch",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/F2Punch.mp3",
+			"duration": "204",
+			"lyrics": ""
+		},
+		{
+			"id": 13,
+			"name_category": "NCT BEST SONG ",
+			"title": "Superhuman",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/F3Superhuman.mp3",
+			"duration": "242",
+			"lyrics": ""
+		},
+		{
+			"id": 12,
+			"name_category": "NCT BEST SONG ",
+			"title": "Touch",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/F4Touch.mp3",
+			"duration": "190",
+			"lyrics": ""
+		},
+		{
+			"id": 11,
+			"name_category": "NCT BEST SONG ",
+			"title": "Lemonade",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/F5Lemonade.mp3",
+			"duration": "191",
+			"lyrics": ""
+		},
+		{
+			"id": 10,
+			"name_category": "NCT BEST SONG ",
+			"title": "SAVE",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/F6SAVE.mp3",
+			"duration": "243",
+			"lyrics": ""
+		},
+		{
+			"id": 9,
+			"name_category": "NCT BEST SONG ",
+			"title": "0 Mile",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/F7_0Mile.mp3",
+			"duration": "205",
+			"lyrics": ""
+		},
+		{
+			"id": 8,
+			"name_category": "NCT BEST SONG ",
+			"title": "Highway to Heaven [English Vers]",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/F8HighwaytoHeaven[EnglishVers].mp3",
+			"duration": "209",
+			"lyrics": ""
+		},
+		{
+			"id": 7,
+			"name_category": "NCT BEST SONG ",
+			"title": "MadCity",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/F9MadCity.mp3",
+			"duration": "199",
+			"lyrics": ""
+		},
+		{
+			"id": 6,
+			"name_category": "NCT BEST SONG ",
+			"title": "Sun & Moon",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/G1Sun&Moon.mp3",
+			"duration": "190",
+			"lyrics": ""
+		},
+		{
+			"id": 5,
+			"name_category": "NCT BEST SONG ",
+			"title": "Welcome To My Play ground",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/G2WelcomeToMyPlayground.mp3",
+			"duration": "240",
+			"lyrics": ""
+		},
+		{
+			"id": 4,
+			"name_category": "NCT BEST SONG ",
+			"title": "Whiplash",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/G3Whiplash.mp3",
+			"duration": "204",
+			"lyrics": ""
+		},
+		{
+			"id": 3,
+			"name_category": "NCT BEST SONG ",
+			"title": "Back2U",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/G4Back2U.mp3",
+			"duration": "236",
+			"lyrics": ""
+		},
+		{
+			"id": 2,
+			"name_category": "NCT BEST SONG ",
+			"title": "Good Thing",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/G5GoodThing.mp3",
+			"duration": "221",
+			"lyrics": ""
+		},
+		{
+			"id": 1,
+			"name_category": "NCT BEST SONG ",
+			"title": "PARADISE",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/G6PARADISE.mp3",
+			"duration": "204",
+			"lyrics": ""
 		}
+		
 
 	]
 }

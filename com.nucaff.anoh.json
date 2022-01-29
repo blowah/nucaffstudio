@@ -1,0 +1,616 @@
+{
+	"Ads": [{
+		"select_main_ads": "ADMOB",
+		"select_backup_ads": "",
+		"main_ads_banner": "",
+		"main_ads_intertitial": "",
+		"backup_ads_banner": "qwerty1234",
+		"backup_ads_intertitial": "qwerty1234",
+		"interval_intertitial": 3,
+		"initialize_sdk": "null",
+		"initialize_sdk_backup_ads": "null",
+		"high_paying_keyword_1": "",
+		"high_paying_keyword_2": "",
+		"high_paying_keyword_3": "",
+		"high_paying_keyword_4": "",
+		"high_paying_keyword_5": "",
+		"status_app": "0",
+		"link_redirect": "https://"
+	}],
+	"Categories": [{
+			"id": 1,
+			"name_category": "LAGU NOAH",
+			"image": "file:///android_asset/image/anyar.jpg"
+		}
+
+
+	],
+	"Data": [{
+			"id": 1,
+			"name_category": "LAGU NOAH",
+			"title": "2DSD",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/2DSD.mp3",
+			"duration": "221",
+			"lyrics": ""
+		},
+		{
+			"id": 2,
+			"name_category": "LAGU NOAH",
+			"title": "Abadi FT All Artist",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/AbadiFTAllArtist.mp3",
+			"duration": "242",
+			"lyrics": ""
+		},
+		{
+			"id": 3,
+			"name_category": "LAGU NOAH",
+			"title": "Ada Apa Denganmu",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/AdaApaDenganmu.mp3",
+			"duration": "285",
+			"lyrics": ""
+		},
+		{
+			"id": 4,
+			"name_category": "LAGU NOAH",
+			"title": "Andaikan Kau Datang Kembali",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/AndaikanKauDatang.mp3",
+			"duration": "295",
+			"lyrics": ""
+		},
+		{
+			"id": 5,
+			"name_category": "LAGU NOAH",
+			"title": "Biar Ku Sendiri",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/BiarKuSendiri.mp3",
+			"duration": "268",
+			"lyrics": ""
+		},
+		{
+			"id": 6,
+			"name_category": "LAGU NOAH",
+			"title": "Bukannya Aku Takut feat Mirriam Eka",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/BukannyaAkuTakutfeatMirriamEka.mp3",
+			"duration": "232",
+			"lyrics": ""
+		},
+		{
+			"id": 7,
+			"name_category": "LAGU NOAH",
+			"title": "Yang Terdalam",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/YangTerdalam_NewVersion.mp3",
+			"duration": "214",
+			"lyrics": ""
+		},
+		{
+			"id": 8,
+			"name_category": "LAGU NOAH",
+			"title": "Menghapus Jejakmu",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/MenghapusJejakmu_NewVersion.mp3",
+			"duration": "206",
+			"lyrics": ""
+		},
+		{
+			"id": 9,
+			"name_category": "LAGU NOAH",
+			"title": "Bintang DiSurga",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/BintangDiSurga_NewVersion.mp3",
+			"duration": "306",
+			"lyrics": ""
+		},
+		{
+			"id": 10,
+			"name_category": "LAGU NOAH",
+			"title": "Cinta Bukan Dusta",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/CintaBukanDusta.mp3",
+			"duration": "266",
+			"lyrics": ""
+		},
+		{
+			"id": 11,
+			"name_category": "LAGU NOAH",
+			"title": "Cobalah Mengerti",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/CobalahMengerti.mp3",
+			"duration": "262",
+			"lyrics": ""
+		},
+		{
+			"id": 12,
+			"name_category": "LAGU NOAH",
+			"title": "Dan Hilang",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/DanHilang.mp3",
+			"duration": "235",
+			"lyrics": ""
+		},
+		{
+			"id": 13,
+			"name_category": "LAGU NOAH",
+			"title": "Dara",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Dara.mp3",
+			"duration": "211",
+			"lyrics": ""
+		},
+		{
+			"id": 14,
+			"name_category": "LAGU NOAH",
+			"title": "Demi Kita",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/DemiKita.mp3",
+			"duration": "246",
+			"lyrics": ""
+		},
+		{
+			"id": 15,
+			"name_category": "LAGU NOAH",
+			"title": "Diatas Normal",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/DiatasNormal.mp3",
+			"duration": "218",
+			"lyrics": ""
+		},
+		{
+			"id": 16,
+			"name_category": "LAGU NOAH",
+			"title": "Dibalik Awan",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/DibalikAwan.mp3",
+			"duration": "233",
+			"lyrics": ""
+		},
+		{
+			"id": 17,
+			"name_category": "LAGU NOAH",
+			"title": "DiBelakangku",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/DiBelakangku.mp3",
+			"duration": "303",
+			"lyrics": ""
+		},
+		{
+			"id": 18,
+			"name_category": "LAGU NOAH",
+			"title": "Dilema Besar",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/DilemaBesar.mp3",
+			"duration": "248",
+			"lyrics": ""
+		},
+		{
+			"id": 19,
+			"name_category": "LAGU NOAH",
+			"title": "Dunia Yang Terlupa",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/DuniaYangTerlupa.mp3",
+			"duration": "212",
+			"lyrics": ""
+		},
+		{
+			"id": 20,
+			"name_category": "LAGU NOAH",
+			"title": "Hari Yang Cerah Untuk Jiwa Yang Sepi",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/HariYangCerahUntukJiwaYangSepi.mp3",
+			"duration": "238",
+			"lyrics": ""
+		},
+		{
+			"id": 21,
+			"name_category": "LAGU NOAH",
+			"title": "Hero",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Hero.mp3",
+			"duration": "207",
+			"lyrics": "<br/>If you ask me how I feel<br/>I want to burn my lonely soul<br/>Fly me through the danger zone<br/>Like a shadow in your home<br/><br/>So let me be your hero<br/>And cast away your sin above<br/>Let me be your hero<br/>And cast away the sin you own<br/><br/>Fly me now and don't despair<br/>I'll be flying through your door<br/><br/>So let me be your hero<br/>And cast away your sin above<br/>Let me be your hero<br/>And cast away your sin<br/><br/>[Repeat x5:]<br/><br/>Stand up I'll be on your side<br/>Take my hand today<br/>We can fly together<br/>Let me lead the way<br/><br/>So let me be your hero<br/>And cast away your sin above<br/>Let me be your hero<br/>And cast away the sin above<br/><br/>Your hero<br/>(Let me lead the way)<br/>Your hero<br/>(Let me lead the way)<br/>"
+		},
+		{
+			"id": 22,
+			"name_category": "LAGU NOAH",
+			"title": "Hidup Untukmu Mati Tanpamu",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/HidupUntukmuMatiTanpamu.mp3",
+			"duration": "220",
+			"lyrics": ""
+		},
+		{
+			"id": 23,
+			"name_category": "LAGU NOAH",
+			"title": "Ini Cinta",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/IniCinta.mp3",
+			"duration": "219",
+			"lyrics": ""
+		},
+		{
+			"id": 24,
+			"name_category": "LAGU NOAH",
+			"title": "Jalani Mimpi",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/JalaniMimpi.mp3",
+			"duration": "235",
+			"lyrics": ""
+		},
+		{
+			"id": 25,
+			"name_category": "LAGU NOAH",
+			"title": "Jauh Mimpi ku",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/JauhMimpiku.mp3",
+			"duration": "186",
+			"lyrics": ""
+		},
+		{
+			"id": 26,
+			"name_category": "LAGU NOAH",
+			"title": "Jika Engkau",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/JikaEngkau.mp3",
+			"duration": "187",
+			"lyrics": ""
+		},
+		{
+			"id": 27,
+			"name_category": "LAGU NOAH",
+			"title": "Kala Cinta Menggoda",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/KalaCintaMenggoda.mp3",
+			"duration": "224",
+			"lyrics": ""
+		},
+		{
+			"id": 28,
+			"name_category": "LAGU NOAH",
+			"title": "Kau Udara Bagiku",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/KauUdaraBagiku.mp3",
+			"duration": "188",
+			"lyrics": ""
+		},
+		{
+			"id": 29,
+			"name_category": "LAGU NOAH",
+			"title": "Khayalan Tingkat Tinggi",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/KhayalanTingkatTinggi.mp3",
+			"duration": "254",
+			"lyrics": ""
+		},
+		{
+			"id": 30,
+			"name_category": "LAGU NOAH",
+			"title": "Kirana",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Kirana.mp3",
+			"duration": "271",
+			"lyrics": ""
+		},
+		{
+			"id": 31,
+			"name_category": "LAGU NOAH",
+			"title": "Kisah Cinta ku",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/KisahCintaku.mp3",
+			"duration": "307",
+			"lyrics": ""
+		},
+		{
+			"id": 32,
+			"name_category": "LAGU NOAH",
+			"title": "Kita Tertawa",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/KitaTertawa.mp3",
+			"duration": "236",
+			"lyrics": ""
+		},
+		{
+			"id": 33,
+			"name_category": "LAGU NOAH",
+			"title": "Kota Mati",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/KotaMati.mp3",
+			"duration": "244",
+			"lyrics": ""
+		},
+		{
+			"id": 34,
+			"name_category": "LAGU NOAH",
+			"title": "Ku Katakan Dengan Indah",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/KuKatakanDenganIndah.mp3",
+			"duration": "275",
+			"lyrics": ""
+		},
+		{
+			"id": 35,
+			"name_category": "LAGU NOAH",
+			"title": "Kupeluk Hatimu",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/KupelukHatimu.mp3",
+			"duration": "273",
+			"lyrics": ""
+		},
+		{
+			"id": 36,
+			"name_category": "LAGU NOAH",
+			"title": "Kupu Kupu Malam",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/KupuKupuMalam.mp3",
+			"duration": "249",
+			"lyrics": ""
+		},
+		{
+			"id": 37,
+			"name_category": "LAGU NOAH",
+			"title": "Kutunggu Kau Putus Ft Sheryl Sheinafia",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/KutungguKauPutusFtSherylSheinafia.mp3",
+			"duration": "257",
+			"lyrics": ""
+		},
+		{
+			"id": 38,
+			"name_category": "LAGU NOAH",
+			"title": "Langit Tak Mendengar",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/LangitTakMendengar.mp3",
+			"duration": "271",
+			"lyrics": ""
+		},
+		{
+			"id": 39,
+			"name_category": "LAGU NOAH",
+			"title": "Membebaniku",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Membebaniku.mp3",
+			"duration": "178",
+			"lyrics": ""
+		},
+		{
+			"id": 40,
+			"name_category": "LAGU NOAH",
+			"title": "Mencari Cinta Ft BCL",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/MencariCintaFtBCL.mp3",
+			"duration": "238",
+			"lyrics": ""
+		},
+		{
+			"id": 41,
+			"name_category": "LAGU NOAH",
+			"title": "Mendekati Lugu",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/MendekatiLugu.mp3",
+			"duration": "236",
+			"lyrics": ""
+		},
+		{
+			"id": 42,
+			"name_category": "LAGU NOAH",
+			"title": "Menemaniku",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Menemaniku.mp3",
+			"duration": "231",
+			"lyrics": ""
+		},
+		{
+			"id": 43,
+			"name_category": "LAGU NOAH",
+			"title": "Menunggumu",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Menunggumu.mp3",
+			"duration": "185",
+			"lyrics": ""
+		},
+		{
+			"id":44,
+			"name_category": "LAGU NOAH",
+			"title": "Menunggu Pagi",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/MenungguPagi.mp3",
+			"duration": "294",
+			"lyrics": ""
+		},
+		{
+			"id": 45,
+			"name_category": "LAGU NOAH",
+			"title": "Mimpi Yang Sempurna",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/MimpiYangSempurna.mp3",
+			"duration": "224",
+			"lyrics": ""
+		},
+		{
+			"id": 46,
+			"name_category": "LAGU NOAH",
+			"title": "Moshimo Mata Itsuka(Mungkin nanti)",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/MoshimoMataItsuka(Mungkinnanti).mp3",
+			"duration": "248",
+			"lyrics": "<br/>Hanashite okitainda<br/>Kitto kore ga Saigo sa<br/>Subete tebanashite shimau wo<br/>Sore ga ima da to omounda<br/><br/>Kimi wa kawatte shimattan darou<br/>Ai wa kiete shimattan darou<br/><br/>Moshimo mata itsuka<br/>Bokura ga de au nara<br/>Onegai dakara mou nani mo kikanai de<br/>Kinou made koko ni atta<br/>Kimi e no ai wa<br/>Okizari ni shite kita kara<br/><br/>Kokoro ga shizunde<br/>Kimi ga yume kara sametara<br/>Omoidashite hoshiinda<br/>Kimi to boku no monogatari wo<br/><br/>Kimi wa kawatte shimattan darou<br/>Ai wa kiete shimattan darou<br/><br/>Moshimo mata itsuka<br/>Bokura ga de au nara<br/>Onegai dakara mou nani mo kikanai de<br/>Kinou made koko ni atta<br/>Kimi e no ai wa<br/>Okizari ni shite kita kara<br/><br/>Moshimo mata itsuka<br/>Bokura ga deau nara<br/>Onegai dakara mou nani mo kikanai de<br/>Kinou made koko ni atta<br/><br/>Kimi e no ai wa<br/>Okizari ni shite kita kara<br/><br/>Mou nani mo kikanide<br/>Mune ni shimaikonde<br/>Subete no koukai to<br/>Kimi ga kureta kono ai wo<br/>"
+		},
+		{
+			"id": 47,
+			"name_category": "LAGU NOAH",
+			"title": "Mungkin Nanti",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/MUNGKINNANTI.mp3",
+			"duration": "204",
+			"lyrics": ""
+		},
+		{
+			"id": 48,
+			"name_category": "LAGU NOAH",
+			"title": "My Situation",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/MySituation.mp3",
+			"duration": "242",
+			"lyrics": "<br/>Sadness in your tears, I'm fading in<br/>My heart goes numb, awake in chains<br/>We tried to reappear, like fools rush in<br/>This changing life we can't explain<br/><br/>To give you space to leave my place<br/>As evening comes I leave no trace<br/>No winters gone without a sign<br/>I'm falling away into despair<br/><br/>Can we keep holding on<br/><br/>In my situation oh...<br/>Heart can't be free to love<br/>In my situation life is an empty dream<br/><br/>Oh this lovers kiss falls into abyss<br/>Like shattered glass we cannot last<br/>How the story ends, we can't be tent<br/>We're crawling away into despair<br/><br/>Can we keep holding on<br/><br/>In my situation aah...<br/>Heart can't be free to love<br/>In my situation life is an empty dream<br/>In my situation (ooh) fears keep me hangin' on<br/>In my situation<br/>I can't keep holding on<br/><br/>In my situation heart can't be free to love<br/>In my situation life is an empty dream<br/>"
+		},
+		{
+			"id": 49,
+			"name_category": "LAGU NOAH",
+			"title": "Puisi Adinda",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/PuisiAdinda.mp3",
+			"duration": "190",
+			"lyrics": ""
+		},
+		{
+			"id": 50,
+			"name_category": "LAGU NOAH",
+			"title": "Raja Negeriku",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/RajaNegeriku.mp3",
+			"duration": "191",
+			"lyrics": ""
+		},
+		{
+			"id": 51,
+			"name_category": "LAGU NOAH",
+			"title": "Sahabat",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Sahabat.mp3",
+			"duration": "243",
+			"lyrics": ""
+		},
+		{
+			"id": 52,
+			"name_category": "LAGU NOAH",
+			"title": "Sajadah Panjang",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/SajadahPanjang.mp3",
+			"duration": "205",
+			"lyrics": ""
+		},
+		{
+			"id": 53,
+			"name_category": "LAGU NOAH",
+			"title": "Sally Sendiri",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/SallySendiri.mp3",
+			"duration": "209",
+			"lyrics": ""
+		},
+		{
+			"id": 54,
+			"name_category": "LAGU NOAH",
+			"title": "Satu Hati",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/SatuHati.mp3",
+			"duration": "199",
+			"lyrics": ""
+		},
+		{
+			"id": 55,
+			"name_category": "LAGU NOAH",
+			"title": "Sendiri Lagi",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/SendiriLagi.mp3",
+			"duration": "190",
+			"lyrics": ""
+		},
+		{
+			"id": 56,
+			"name_category": "LAGU NOAH",
+			"title": "Separuh Aku",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/SeparuhAku.mp3",
+			"duration": "240",
+			"lyrics": ""
+		},
+		{
+			"id": 57,
+			"name_category": "LAGU NOAH",
+			"title": "Tak Bisakah",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/TakBisakah.mp3",
+			"duration": "204",
+			"lyrics": ""
+		},
+		{
+			"id": 58,
+			"name_category": "LAGU NOAH",
+			"title": "Tak Lagi Sama",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/TakLagiSama.mp3",
+			"duration": "236",
+			"lyrics": ""
+		},
+		{
+			"id": 59,
+			"name_category": "LAGU NOAH",
+			"title": "Taman Langit",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/TamanLangit.mp3",
+			"duration": "221",
+			"lyrics": ""
+		},
+		{
+			"id": 60,
+			"name_category": "LAGU NOAH",
+			"title": "Terbangun Sendiri",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/TerbangunSendiri.mp3",
+			"duration": "204",
+			"lyrics": ""
+		},
+		{
+			"id": 61,
+			"name_category": "LAGU NOAH",
+			"title": "Tinggallah Kusendiri",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/TinggallahKusendiri.mp3",
+			"duration": "240",
+			"lyrics": ""
+		},
+		{
+			"id": 62,
+			"name_category": "LAGU NOAH",
+			"title": "Topeng",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Topeng.mp3",
+			"duration": "204",
+			"lyrics": ""
+		},
+		{
+			"id": 63,
+			"name_category": "LAGU NOAH",
+			"title": "Walau Habis Terang",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/WalauHabisTerang.mp3",
+			"duration": "236",
+			"lyrics": ""
+		},
+		{
+			"id": 64,
+			"name_category": "LAGU NOAH",
+			"title": "Wanitaku",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Wanitaku.mp3",
+			"duration": "221",
+			"lyrics": ""
+		},
+		{
+			"id": 65,
+			"name_category": "LAGU NOAH",
+			"title": "Yang Terlupakan",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/YangTerlupakan.mp3",
+			"duration": "204",
+			"lyrics": ""
+		}
+		
+
+	]
+}

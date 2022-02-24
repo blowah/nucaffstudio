@@ -1,0 +1,122 @@
+{
+	"Ads": [{
+		"select_main_ads": "ADMOB",
+		"select_backup_ads": "",
+		"main_ads_banner": "",
+		"main_ads_intertitial": "",
+		"backup_ads_banner": "qwerty1234",
+		"backup_ads_intertitial": "qwerty1234",
+		"interval_intertitial": 3,
+		"initialize_sdk": "null",
+		"initialize_sdk_backup_ads": "null",
+		"high_paying_keyword_1": "",
+		"high_paying_keyword_2": "",
+		"high_paying_keyword_3": "",
+		"high_paying_keyword_4": "",
+		"high_paying_keyword_5": "",
+		"status_app": "0",
+		"link_redirect": "https://"
+	}],
+	"Categories": [{
+			"id": 1,
+			"name_category": "AYAT RUQYAH SYIFA",
+			"image": "file:///android_asset/image/anyar.jpg"
+		}
+
+
+	],
+	"Data": [{
+			"id": 1,
+			"name_category": "AYAT RUQYAH SYIFA",
+			"title": "Surah AL KAHFI Merdu",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/SurahALKAHFIMerdu.mp3",
+			"duration": "2440",
+			"lyrics": ""
+		},
+		{
+			"id": 2,
+			"name_category": "AYAT RUQYAH SYIFA",
+			"title": "RUQYAH SUSAH TIDUR",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/RUQYAH SUSAH TIDUR.mp3",
+			"duration": "1699",
+			"lyrics": ""
+		},
+		{
+			"id": 3,
+			"name_category": "AYAT RUQYAH SYIFA",
+			"title": "RUQYAH SUSAH KETURUNAN",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/RUQYAHSUSAHKETURUNAN.mp3",
+			"duration": "1186",
+			"lyrics": ""
+		},
+		{
+			"id": 4,
+			"name_category": "AYAT RUQYAH SYIFA",
+			"title": "RUQYAH KHUSUS JIN NASAB",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/RUQYAHKHUSUSJINNASAB.mp3",
+			"duration": "4002",
+			"lyrics": ""
+		},
+		{
+			"id": 5,
+			"name_category": "AYAT RUQYAH SYIFA",
+			"title": "Ruqyah Jin dan Sihir Penghalang Jodoh",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/RuqyahJindanSihirPenghalangJodoh.mp3",
+			"duration": "1379",
+			"lyrics": ""
+		},
+		{
+			"id": 6,
+			"name_category": "AYAT RUQYAH SYIFA",
+			"title": "AYAT RUQYAH KERAS PENYIKSA JIN YANG BANDEL",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/AYATRUQYAHKERASPENYIKSAJINYANGBANDEL.mp3",
+			"duration": "1680",
+			"lyrics": ""
+		},
+		{
+			"id": 7,
+			"name_category": "AYAT RUQYAH SYIFA",
+			"title": "Ayat Ruqyah Penyembuh Penyakit Kanker",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/AyatRuqyahPenyembuhPenyakitKanker.mp3",
+			"duration": "1691",
+			"lyrics": ""
+		},
+		{
+			"id": 8,
+			"name_category": "AYAT RUQYAH SYIFA",
+			"title": "Ayat Ruqyah Stroke Hipertensi",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/AyatRuqyahStrokeHipertensi.mp3",
+			"duration": "2624",
+			"lyrics": ""
+		},
+		{
+			"id": 9,
+			"name_category": "AYAT RUQYAH SYIFA",
+			"title": "AYAT SYIFA SEGALA PENYAKIT MEDIS DAN NONMEDIS",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/AYATSYIFASEGALAPENYAKITMEDISDANNONMEDIS.mp3",
+			"duration": "1851",
+			"lyrics": ""
+		},
+		{
+			"id": 10,
+			"name_category": "AYAT RUQYAH SYIFA",
+			"title": "Ayat Ruqyah Jiwa yang Gelisah Cemas Emosi",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/AyatRuqyahJiwayangGelisahCemasPemarahEmosi.mp3",
+			"duration": "1978",
+			"lyrics": ""
+		}
+		
+		
+
+	]
+}
